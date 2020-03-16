@@ -29,9 +29,7 @@ Visual reasearch
 
 * Original Poster<br>
 Size: W279mm, H432mm
-<br>
-<br>
-<br>
+
 Setlist of Sound of Liberation
 -------------
 3 big parts
