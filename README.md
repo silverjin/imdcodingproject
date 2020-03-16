@@ -108,6 +108,6 @@ Some scholars, like [Paul Roderick Gregory](https://en.wikipedia.org/wiki/Paul_
 Make a web puzzle with Javascript  
 https://sourceforge.net/projects/jigsawpuzzle/  
 http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php  
-# Shared sources on Github of the creator  
+### Shared sources on Github of the creator  
 https://github.com/gorhill/jigsawpuzzle-rhill
 
