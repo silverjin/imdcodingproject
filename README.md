@@ -1,8 +1,7 @@
 Sound of Liberation
 =============
-##Sound of Liberation
-#Korean Cultural & Speaking Tour in Asia-Pacific Europe
-
+Korean Cultural & Speaking Tour in Asia-Pacific Europe
+-------------
 Period: 1975-1999 (Actual Period: 1991)
 Genres: Poster
 Meeting: Actie Noord-Korea, Actie Zuid-Korea
