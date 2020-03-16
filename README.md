@@ -63,8 +63,7 @@ Upon Yoon’s arrival in the United States, he focused on building an overseas s
 
 Young Koreans United (YKU)
 -------------
-<iframe width="331" height="248" src="https://www.youtube.com/embed/ZA8eNS4I8uI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-**Young Koreans United (YKU)** was a progressive Korean American organization that carried the legacy of the [May 18th Gwangju People's Uprising](https://femiwiki.com/w/May_18th_Gwangju_People%27s_Uprising) - democracy, justice and human rights - seeking democracy, peace, and reunification in the Korean peninsula, through organizing and activism in the United States, Canada, Australia, and Europe.  
+Young Koreans United (YKU) was a progressive Korean American organization that carried the legacy of the [May 18th Gwangju People's Uprising](https://femiwiki.com/w/May_18th_Gwangju_People%27s_Uprising) - democracy, justice and human rights - seeking democracy, peace, and reunification in the Korean peninsula, through organizing and activism in the United States, Canada, Australia, and Europe.  
 [https://femiwiki.com/w/YKU_1980s](https://femiwiki.com/w/YKU_1980s)  
 [https://femiwiki.com/w/YKU_1990s](https://femiwiki.com/w/YKU_1990s)  
 [https://femiwiki.com/w/YKU_2000s](https://femiwiki.com/w/YKU_2000s)  
