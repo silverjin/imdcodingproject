@@ -104,3 +104,10 @@ According to a December 2017 survey released by the [Korea Institute for Nation
 Polls show a majority of South Koreans, even those in age groups traditionally seen as being more eager to reunify the peninsula, are not willing to see their living condition suffer in order to accommodate the North. Moreover, about 50% of men in their 20s see North Korea as an outright enemy that they want nothing to do with.
 Some scholars, like [Paul Roderick Gregory](https://en.wikipedia.org/wiki/Paul_Roderick_Gregory), have suggested that a complete abandonment of Korean reunification may be necessary, in exchange for the North to dismantle its [nuclear weapons program](https://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction) and permanently ending the [Korean War](https://en.wikipedia.org/wiki/Korean_War) with a [peace treaty](https://en.wikipedia.org/wiki/Peace_treaty).
 
+## Transcoding Idea
+Make a web puzzle with Javascript  
+https://sourceforge.net/projects/jigsawpuzzle/  
+http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php  
+# Shared sources on Github of the creator  
+https://github.com/gorhill/jigsawpuzzle-rhill
+
