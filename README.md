@@ -29,7 +29,6 @@ Visual reasearch
 
 * Original Poster<br>
 Size: W279mm, H432mm
-
 <br>
 <br>
 <br>
@@ -37,21 +36,21 @@ Setlist of Sound of Liberation
 -------------
 3 big parts
 
-* Part 1
+* Part 1<br>
 Music concert with famous Korean activist songs like ‘Gwangju stream’ and ‘March for Our Beloved’
 https://youtu.be/COiqTaLOU0k
 https://youtu.be/Sxouzu4LL50
 https://youtu.be/TWw69ozD2Zc
 
-* Part 2
+* Part 2<br>
 Traditional play about the 5.18 *Gwangju Democratic Uprising (*important democratic movement in S.Korea)
 https://youtu.be/7C7W9DFDSXM
 https://youtu.be/s9EPalX1jmY
 
-* Part 3
+* Part 3<br>
 Pungmulnori concert (traditional Korean music and dance)
 
-* Visited countries
+* Visited countries<br>
 Luxembourg
 Belgium
 Germany
