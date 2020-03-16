@@ -74,8 +74,8 @@ Young Koreans United (YKU) was a progressive Korean American organization that c
 
 Alliance For Democracy and Reunification of Korea (ADRK, Han Min Ryun)
 -------------
-Founded by Korean-Japanese in August 15, 1973, based in Tokyo, Japan 
-1973년 8월 15일 재일 한국인들이 대한민국의 민주화와 통일을 위해 설립한 단체 
+Founded by Korean-Japanese in August 15, 1973, based in Tokyo, Japan<br>
+1973년 8월 15일 재일 한국인들이 대한민국의 민주화와 통일을 위해 설립한 단체<br>
 
 [Korea Newsletter](https://search.iisg.amsterdam/Record/1350231)<br>
 
@@ -88,5 +88,10 @@ Pan-National Conference for Peace and Reunification of Korea in West Berlin<br><
 
 Alliance For Democracy and Reunification of Korea (ADRK, Han Min Ryun)
 -------------
+* History. 
+June 1977, Algiers (Algeria), consequent upon the World Conference for the Independent and Peaceful Reunification of Korea, 21-22 Feb 1977, Brussels (Belgium). Also referred to as: International Liaison Committee for Reunification and Peace of Korea -- Comité international de liaison pour la réunification et la paix en Corée -- Comité internacional de Enlace por la Réunificación y la Paz en Corea; International Network for Reconciliation and Reunification of Korea. No activities reported since 2009.
 
+* Aims. 
+Contribute to the formation of a large movement of solidarity with the Korean people in their struggle to accomplish the independent and peaceful reunification of Korea.  
 
+[Artifact](https://search.iisg.amsterdam/Record/1357662)<br>
