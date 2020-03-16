@@ -17,12 +17,11 @@ Subject Location: Netherlands
 * On 8 August 1991, the UN Security Council passed United Nations Security Council Resolution 702, recommending both states to the UN General Assembly for membership.
 * On 17 September 1991, the General Assembly admitted both countries under Resolution 46/1.
 
-[Hanbong Yoon's Life](http://habsoo.org/habsoo/missing-habsoo?board_name=missing&mode=view&board_pid=17&order_by=fn_pid&order_type=desc)
+[Hanbong Yoon's Life](http://habsoo.org/habsoo/missing-habsoo?board_name=missing&mode=view&board_pid=17&order_by=fn_pid&order_type=desc)<br>
 [Essay About Hanbong Yoon](http://habsoo.org/habsoo/missing-habsoo?board_name=missing&mode=view&board_pid=17&order_by=fn_pid&order_type=desc)
-
-
-
-
+<br>
+<br>
+<br>
 Visual reasearch
 -------------
 * Used typeface: Optima<br>
