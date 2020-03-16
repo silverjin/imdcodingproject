@@ -28,4 +28,35 @@ Visual reasearch
 ![Alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45008bb0-7838-4ab9-bc61-d5b0980f919e/_2020-03-01__10.21.26.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAT73L2G45LG7EQ7GF%2F20200316%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200316T124107Z&X-Amz-Expires=86400&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDfnyrc4RUKu1keGGbQDeNGQFbjOKG%2Fg9krAvMB2zbD3AiA8RvuiupaEHk6kQaI%2BDs3O1nEEG0yLWdyAuGEc2rmx1iq9AwiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDI3NDU2NzE0OTM3MCIMCRmVD%2BFHxv2LcYRfKpEDOnPe1xYv6iV%2FLKprtEvTm3ECJX3oKpeP0rXNdxzspDYvD8UvKO4kdVjyUusixjXYScQ2l5PkTtwzAm82oLHgaBFI%2BKpr54iNJQQBmZrSComQEWoLVUJMzR4edTkyA1ruNnAJ732UTvnm%2FzC46%2Fni7ZBia6MHaF%2FnvVebgsJCR9cUXGDHk4ndYbIeOjgGeJv5ZI2zJpxx9NP0luclyz8yXAk2hwkGYB4kNdsMUhNMGTGCVj%2BKPwV7MRXEirJFdnThvkwUyQf6jgNdsuo8xoUXzNux4Md7hkB8ZoP4zkniB2gMk%2BJvxjSyL%2F8w9adFfjKNxU8SswBVUxQt9mMoQDfAVNNWYBmc7XlUMr1OqTv%2BwrY3oy3AmrTC2lfKH2JzuTJprCt%2FlGF4lt9ru5QgMPh6o5LCn8IOuaSG1W1Hz38e4sIa4ovtp6QP3iYGVLI3wd6mVd5Ed7wdHHiewI68WtP6hv%2FfbTF%2BVBUNZ%2BEefLniFWyLKpzxu5M68i%2F7emixJ0b2l4WwpTs27UcsaJyZD3iNNlEw07e98wU67AHZmhrJWvL2mDEPnXWtx9M40XrA%2FFWjvNEf%2BaLB6Ut8CglH6g4sJSpRdmh58QshDnMPcPhUv8DaBLTLFw%2F3hmVq4JfH%2FArB0E%2F0AIO01j50xrvklqLoh0BDdh27dPjYVQWc14C3gBg0hVmuYKU8YDL%2Fx%2BRAWZTjEdhOLHYvrxlI2nI3IB7625tGpy84UOMSSPNZSLLYv92i%2BaWnJW2%2FnuWYs9FTuKGEidc6JbcnUkDUU6nrqcRA118lkj0IPRRCpbgHgl710Ja82O7Hmm2EV593KaWIAlxrehDhY%2BLmNG6f6xU77ESg5lVm659cIQ%3D%3D&X-Amz-Signature=03fbeafaee174fe2caef0f409e1c39d58aa97c584f47e5e5168ad5bd17160448&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2020-03-01__10.21.26.png%22)
 
 * Original Poster<br>
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c89f3062-2f37-4122-8f1c-f96d6fa72e49/IMG_2521.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAT73L2G45GQVJM7XA%2F20200316%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200316T124216Z&X-Amz-Expires=86400&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFdt%2BFIy0oxbEcEkWcx3OZ0nVEpqDZkhmopAdUlmXvKyAiB5M5Lz8IY%2Fjv%2FV1ttPdw4EGdmzY1sdwj9Mswg83byMWyq9AwiJ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDI3NDU2NzE0OTM3MCIMEL16jUmWfv5elNjpKpED6ggx32M8nIDlEC9M3qGo7fiB0mRdBCSUHMVo6S87%2B%2BNELYBhHRHHC%2FnnjsVMbP3Wm7jzLDE8wEXGng8i7Xh0P3vDygV3XsFTH5AGkTk%2BBDpm953Ny4w%2ByeZNNhWhqshHoCHCUhIH8I%2FMBoTKVp8p1Vy%2BhQmt17Y28jJbQbX2EnGt5bb2VpC70NgFT4ZY2%2F6txvZd%2Fnvpvt0PYL5t1vkTNU3GDBB30xvzyYy%2FjrJ32J77NjmTU3%2FnYlZfVoGaY8%2BY%2F1D2ILUuJGdpjJqsTXdSexSZt0hhEVHABWACZ4shmAqkf0pmAjfal5MFqZSvTfsW2VbuTrfOSWJKLjkK5OJq491uKmeSHRBzNrdXHPViN%2B1aym5ivWPGBxfVXvbFJjjj%2F0%2F5GG5jHVCWMJK7StdTc7kn0gFS9cDXsPMfrbqbWp27%2BbKMmhst97lQEtmEWh7XxlYBNH0vJPXcSJl0G00yveT8yBj5Q4ldSTPeCWbAkn5ZAKS%2FGPAfAS0ERMjBlxMxr4GHOGFi5ZwI9%2BhZzDqwmsUw8OG88wU67AHzJjpJeptZuaIJFHbja33vD8KuQbLUXcvkqjf4JyJr94aW57J%2FlujTW%2FNfUPQ%2BgMzAKESXXskkEASZWwMy2QHHiP8WCYx%2BxBblYiet0SMRmGXWggoEFt8GPfVaW3ZbquPZgGcn7SGzhVO11KgNy3cRmVjM6ixAq4jGmH%2BZdTeKDPFCsIERNSH4NUji%2BJB0AxGl6DpHk4sfgC%2FRmNj5sNgOnaa3lw6aoi2uRgToIEnt8yEbtLw6w1pGITAQ5Vngv9rUZRn5PGQIwSCBwZgoFA0tK2xwctxbY8%2FKhRkkTA4uJJehoYjFc46COhYFuA%3D%3D&X-Amz-Signature=b608827cdf1275c6e96658035a63478dfe34e2bfd89ac47b3370cf0179b26316&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMG_2521.jpg%22" width="40%"></img>
+Size: W279mm, H432mm
+
+<br>
+<br>
+<br>
+Setlist of Sound of Liberation
+-------------
+3 big parts
+
+* Part 1
+Music concert with famous Korean activist songs like ‘Gwangju stream’ and ‘March for Our Beloved’
+https://youtu.be/COiqTaLOU0k
+https://youtu.be/Sxouzu4LL50
+https://youtu.be/TWw69ozD2Zc
+
+* Part 2
+Traditional play about the 5.18 *Gwangju Democratic Uprising (*important democratic movement in S.Korea)
+https://youtu.be/7C7W9DFDSXM
+https://youtu.be/s9EPalX1jmY
+
+* Part 3
+Pungmulnori concert (traditional Korean music and dance)
+
+* Visited countries
+Luxembourg
+Belgium
+Germany
+the Netherlands
+Ireland
+France
+United Kingdom
+
