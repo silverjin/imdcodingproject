@@ -19,9 +19,9 @@ Subject Location: Netherlands
 
 [Hanbong Yoon's Life](http://habsoo.org/habsoo/missing-habsoo?board_name=missing&mode=view&board_pid=17&order_by=fn_pid&order_type=desc)
 [Essay About Hanbong Yoon](http://habsoo.org/habsoo/missing-habsoo?board_name=missing&mode=view&board_pid=17&order_by=fn_pid&order_type=desc)
-
-
-
+<br>
+<br>
+<br>
 Visual reasearch
 -------------
 * Used typeface: Optima<br>
