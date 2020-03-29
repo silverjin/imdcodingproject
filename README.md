@@ -15,8 +15,7 @@ Subject Location: Netherlands
 * S. Korea and the N. Korea were simultaneously admitted to the United Nations (UN) in 1991. 
 * On 8 August 1991, the UN Security Council passed United Nations Security Council Resolution 702, recommending both states to the UN General Assembly for membership. 
 * On 17 September 1991, the General Assembly admitted both countries under Resolution 46/1. 
-[Hanbong Yoon's Life](http://habsoo.org/habsoo/missing-habsoo?board_name=missing&mode=view&board_pid=17&order_by=fn_pid&order_type=desc) 
-[Essay About Hanbong Yoon](http://habsoo.org/habsoo/missing-habsoo?board_name=missing&mode=view&board_pid=17&order_by=fn_pid&order_type=desc) 
+
 
 ### Visual Research 
 
