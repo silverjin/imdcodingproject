@@ -17,7 +17,8 @@ Subject Location: Netherlands
 * On 17 September 1991, the General Assembly admitted both countries under Resolution 46/1. 
 
 
-### Visual Research 
+
+## Visual Research 
 
 * Used typeface: Optima  
 ![Alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45008bb0-7838-4ab9-bc61-d5b0980f919e/_2020-03-01__10.21.26.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAT73L2G45K5JLODNW%2F20200329%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200329T134906Z&X-Amz-Expires=86400&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDtn4MRNgz%2BHJaHZn2xQo8yMFlMDGYh5v66KXhvNZ%2FoEQIgVXsQMbWZlQ00%2BQGgsmoIcquPKOGoJVAHWuq70NsO9WwqvQMI1v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwyNzQ1NjcxNDkzNzAiDB6C%2BG%2F%2BJaED2fR6nyqRAzPienpyi1poJXS908MX%2F3OMwK4KC9soNX%2BlVWTDhi5V1A9NZcjTbRSyV5Iv8zUCQ3FL8nnBmtAYFLhlqcHYT4326xhUHn99rl0bsnFJ1ccDZoWHyRaRz8Ap9NLXM8nh5qWtmVyiI70vADV9aRierkPuf%2FxF5jz%2BbpJEl%2BJiQbuvkRa8MZBA6n4tSBHs7DPL%2F5tCL1ILN01mXVSykABsovgIg%2BOo%2Bt7xWHnYI4zCj5XUV3QAqUWJhxVcQbpqFQVIFZwXxwjKC4l%2FZ5VB1SNFx93dD%2BSCufbhWHT4nVd2uPjsiENry%2F52QAH0b7nCl6vhMXzZQAHWHCZlnjr4kLSwrKgZfUWCb59s9taZ5Idi4ODM0UgwkZNCRdeAOavZRMRD%2FzKwUMVtz1pj9eZ%2B%2BD5vtdwJMdCpUuQk4w%2F2t%2Bs%2FRoB4PHyGvTfqBUvzapw5ZPxCYADeZGnoPzACaMDrSZdKFWkKDg5WLpswzDIcog4cZcGq%2BTitYbRYohwPmAfbnvqmlDpTe21j93KlZS1%2BQwvvZS%2BpMIK%2BgvQFOusBWMGtrwPMahdmck8U5WcYwVDlLjDryEXsYiL4oTrbXr59horzXbHNEvdZgNIFIDQL%2B5HA9ZgtsNVx23t7Is8s8I4YVbWA%2B%2F0TKWdox4PGYF4rk5jSgCpbPRbtIrkL01JxIYxxiAmaLuR2vAJFvtiLHMeRFIhzGfLL1Igiywr5Lis4UckQLgfpJIkCEdIjlwToxlxUHor5TNv5bbgl46tZqcBRX8LHVAkScZk%2FudMPP4UQqaaW%2F0B7AX8cAHEOIzadrTff9Ws%2Fxtq5sTyGbSOclg0k1%2BB84ZgiGuGtAY20t9ZZXgbuQ6xvo6rJqw%3D%3D&X-Amz-Signature=f46fdad5063589e909544522b27e63480fe94b37eb25e131cab85dd674992e3f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2020-03-01__10.21.26.png%22)
