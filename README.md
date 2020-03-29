@@ -17,6 +17,7 @@ Subject Location: Netherlands
 * On 17 September 1991, the General Assembly admitted both countries under Resolution 46/1.<br>
 <br>
 <br>
+
 ## Visual Research 
 
 * Used typeface: Optima  
