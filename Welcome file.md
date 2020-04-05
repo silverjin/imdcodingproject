@@ -69,8 +69,8 @@ He is widely recognized by the overseas Korean American movement and the human r
 <p><a href="https://femiwiki.com/w/YKU_1980s"></a><a href="https://femiwiki.com/w/YKU_1980s">https://femiwiki.com/w/YKU_1980s</a><br>
 <a href="https://femiwiki.com/w/YKU_1990s"></a><a href="https://femiwiki.com/w/YKU_1990s">https://femiwiki.com/w/YKU_1990s</a><br>
 <a href="https://femiwiki.com/w/YKU_2000s"></a><a href="https://femiwiki.com/w/YKU_2000s">https://femiwiki.com/w/YKU_2000s</a></p>
-<p><img src="https://i.imgur.com/5GOS3RQ.png" alt="enter image description here"></p><br>
-Old location of YKU building<br>
+<p><img src="https://i.imgur.com/5GOS3RQ.png" alt="enter image description here"></p>
+Old location of YKU building<br><br>
 <p><img src="https://i.imgur.com/QtvADaN.png" alt="enter image description here"></p>
 Early picture of YKU members<br>
 <p></p><h3>Alliance For Democracy and Reunification of Korea (ADRK, Han Min Ryun)</h3><p></p>
