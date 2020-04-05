@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="poster-sound-of-liberation">[Poster] Sound of Liberation</h1>
 <p>A Poster for Korean Cultural &amp; Speaking Tour in Asia-Pacific Europe ‘Sound of Liberation’<br>
 Visited countries: Luxembourg, Belgium, Germany, the Netherlands, Ireland, France, United Kingdom</p>
@@ -23,14 +18,14 @@ Subject Location: Netherlands</p>
 <img src="https://i.imgur.com/DA7tA4b.png" alt="enter image description here"></p>
 <p>Size: W 279 mm, H 432 mm<br>
 Photos of original poster:<br>
-<img src="https://i.imgur.com/Qv2ooCX.jpg" alt="enter image description here"></p>
-<p><img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here"></p>
-<p><img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here"></p>
-<p><img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here"><br>
+<img src="https://i.imgur.com/Qv2ooCX.jpg" alt="enter image description here" width="500px"></p>
+<p><img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="500px"></p>
+<p><img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here" width="500px"></p>
+<p><img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="500px"><br>
 Background Image: Halftone effect</p>
-<p><img src="https://i.imgur.com/mZFn9Bw.jpg" alt="enter image description here"><br>
+<p><img src="https://i.imgur.com/mZFn9Bw.jpg" alt="enter image description here" width="500px"><br>
 Currency: Dutch guilder (Symbol ƒ or fl.) more info: <a href="https://en.wikipedia.org/wiki/Dutch_guilder">https://en.wikipedia.org/wiki/Dutch_guilder</a></p>
-<p><img src="https://i.imgur.com/ggeCXaK.jpg" alt="enter image description here"><br>
+<p><img src="https://i.imgur.com/ggeCXaK.jpg" alt="enter image description here" width="500px"><br>
 Address part written with red marker</p>
 <h2 id="setlist">Setlist</h2>
 <h3 id="part-1">Part 1</h3>
@@ -59,7 +54,7 @@ According to a December 2017 survey released by the Korea Institute for National
 Polls show a majority of South Koreans, even those in age groups traditionally seen as being more eager to reunify the peninsula, are not willing to see their living condition suffer in order to accommodate the North. Moreover, about 50% of men in their 20s see North Korea as an outright enemy that they want nothing to do with. Some scholars, like Paul Roderick Gregory, have suggested that a complete abandonment of Korean reunification may be necessary, in exchange for the North to dismantle its nuclear weapons program and permanently ending the Korean War with a peace treaty.</p>
 <h2 id="promoter">Promoter</h2>
 <h3 id="han-bong-yoon-1948-2007">Han-bong Yoon (1948-2007)</h3>
-<p><img src="https://i.imgur.com/zHQl4uo.png" alt="enter image description here"></p>
+<p><img src="https://i.imgur.com/zHQl4uo.png" alt="enter image description here" width="500px"></p>
 <p>The “Last Fugitive” involved in the May 18th Gwangju People’s Uprising of 1980, and a central initiator of the progressive Korean American grassroots movement.<br>
 He is widely recognized by the overseas Korean American movement and the human rights and social justice movement in South Korea as a critical, astute and eloquent political leader.</p>
 <p>In Los Angeles and the United States, Yoon Han Bong challenged and motivated many young Korean Americans to combine their passion and awareness of injustice with practical skills in organizing, education and movement building.</p>
