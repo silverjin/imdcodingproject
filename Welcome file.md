@@ -71,7 +71,7 @@ He is widely recognized by the overseas Korean American movement and the human r
 <p><img src="https://i.imgur.com/QtvADaN.png" alt="enter image description here"></p>
 <p></p><h3>Alliance For Democracy and Reunification of Korea (ADRK, Han Min Ryun)</h3><p></p>
 Founded on August 15, 1973, an organization established by Korean Japanese for the democratization and unification of the Republic of Korea<br>
-Founded by Korean-Japanese in August 15, 1973, based in Tokyo, Japan
+Founded by Korean-Japanese in August 15, 1973, based in Tokyo, Japan<br>
 <p><b>Artifact: Korea Newsletter</b><br>
 <a href="https://search.iisg.amsterdam/Record/1350231">https://search.iisg.amsterdam/Record/1350231</a></p>
 <p>Vol. 2-No. 6/7, May 1987<br>
@@ -85,6 +85,6 @@ Pan-National Conference for Peace and Reunification of Korea in West Berlin</p>
 June 1977, Algiers (Algeria), consequent upon the World Conference for the Independent and Peaceful Reunification of Korea, 21-22 Feb 1977, Brussels (Belgium). Also referred to as: International Liaison Committee for Reunification and Peace of Korea – Comité international de liaison pour la réunification et la paix en Corée – Comité internacional de Enlace por la Réunificación y la Paz en Corea; International Network for Reconciliation and Reunification of Korea. No activities reported since 2009.</p>
 <p><b>Aims</b><br>
 Contribute to the formation of a large movement of solidarity with the Korean people in their struggle to accomplish the independent and peaceful reunification of Korea.</p>
-<p><b>Artifact</b><br>
+<p><b>Artifact:</b><br>
 <a href="https://search.iisg.amsterdam/Record/1357662">https://search.iisg.amsterdam/Record/1357662</a></p>
 
