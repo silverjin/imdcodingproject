@@ -24,7 +24,8 @@ Photos of original poster:<br>
 <p><img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="500px"><br>
 Background Image: Halftone effect</p>
 <p><img src="https://i.imgur.com/mZFn9Bw.jpg" alt="enter image description here" width="500px"><br>
-Currency: Dutch guilder (Symbol ƒ or fl.) more info: <a href="https://en.wikipedia.org/wiki/Dutch_guilder">https://en.wikipedia.org/wiki/Dutch_guilder</a></p>
+Currency: Dutch guilder (Symbol ƒ or fl.)<br>
+More info: <a href="https://en.wikipedia.org/wiki/Dutch_guilder">https://en.wikipedia.org/wiki/Dutch_guilder</a></p>
 <p><img src="https://i.imgur.com/ggeCXaK.jpg" alt="enter image description here" width="500px"><br>
 Address part written with red marker</p>
 <h2 id="setlist">Setlist</h2>
