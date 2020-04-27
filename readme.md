@@ -28,7 +28,7 @@ Metadata
 | **Medium** | Poster
 | **Materials** | Paper
 | **Date** | 1975-1999
-|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| Size: W 279 mm, H 432 mm<br>Used typeface: Optima<br>Background Image: Halftone effect<br>Address: Kargadoor (Oudegracht 36 3511 AP Utrecht)<br>Currency: Dutch guilder (Symbol ƒ or fl.) [https://en.wikipedia.org/wiki/Dutch_guilder](https://en.wikipedia.org/wiki/Dutch_guilder)|<br> <img src="https://i.imgur.com/D1rFTKt.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="300px">
+|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| Size: W 279 mm, H 432 mm<br>Used typeface: Optima<br>Background Image: Halftone effect<br>Address: Kargadoor (Oudegracht 36 3511 AP Utrecht)<br>Currency: Dutch guilder (Symbol ƒ or fl.) [https://en.wikipedia.org/wiki/Dutch_guilder](https://en.wikipedia.org/wiki/Dutch_guilder)<br><img src="https://i.imgur.com/D1rFTKt.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="300px">|
 
 <h1>Research</h1>
 <li>S. Korea and the N. Korea were simultaneously admitted to the United Nations (UN) in 1991.</li>
