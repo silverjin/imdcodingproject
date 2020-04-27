@@ -1,6 +1,6 @@
 <h1>Sound of Liberation</h1>
 
-<h3>Table of Contents</h3>
+Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research-h1)
@@ -46,8 +46,7 @@ More info: <a href="https://en.wikipedia.org/wiki/Dutch_guilder">https://en.wiki
 <p><img src="https://i.imgur.com/ggeCXaK.jpg" alt="enter image description here" width="500px"><br>
 Address part written with red marker</p>
 <h1>Research</h1>
-<h2>Concert</h2>
-<h3 id="setlist">Setlist</h3>
+<h2>Concert setlist</h2>
 <h3 id="part-1">Part 1</h3>
 <p>Music concert with famous Korean activist songs like ‘Gwangju stream’ and ‘March for Our Beloved’<br>
 <a href="https://www.youtube.com/watch?v=COiqTaLOU0k">Live video of ‘Gwangju Stream’</a><br>
