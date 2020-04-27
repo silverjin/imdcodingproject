@@ -1,4 +1,4 @@
-<h1 id="poster-sound-of-liberation"><Sound of Liberation></h1>
+<h1>Sound of Liberation</h1>
 <p>A Poster for Korean Cultural &amp; Speaking Tour in Asia-Pacific Europe ‘Sound of Liberation’<br>
 Visited countries: Luxembourg, Belgium, Germany, the Netherlands, Ireland, France, United Kingdom</p>
 <p><img src="https://i.imgur.com/EiXjDWQ.png" alt="enter image description here"></p>
