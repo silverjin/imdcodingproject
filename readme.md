@@ -34,6 +34,7 @@ Metadata
 <li>S. Korea and the N. Korea were simultaneously admitted to the United Nations (UN) in 1991.</li>
 <li>On 8 August 1991, the UN Security Council passed United Nations Security Council Resolution 702, recommending both states to the UN General Assembly for membership.</li>
 <li>On 17 September 1991, the General Assembly admitted both countries under Resolution 46/1.</li>
+<li>The concert was held in August 1991.</li>
 <h2>Concert setlist</h2>
 <h3 id="part-1">Part 1</h3>
 <p>Music concert with famous Korean activist songs like ‘Gwangju stream’ and ‘March for Our Beloved’<br>
