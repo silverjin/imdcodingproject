@@ -13,9 +13,7 @@ Table of Contents
 7. [Bibliography](#Bibliography)
 
 <h1>Artefact</h1>
-A Poster for Korean Cultural & Speaking Tour in Asia-Pacific Europe ‘Sound of Liberation’<br>
-The concert was aimed at informing the world of a message that prayed for the unification of Korea and refused to be separately registered with the UN.<br>
-Visited countries: Luxembourg, Belgium, Germany, the Netherlands, Ireland, France, United Kingdom
+This artefact is a poster for Korean Cultural & Speaking Tour in Asia-Pacific Europe ‘Sound of Liberation’. The concert was aimed at informing the world of a message that prayed for the unification of Korea and refused to be separately registered with the UN. It was a Europe concert tour to Luxembourg, Belgium, Germany, the Netherlands, Ireland, France and United Kingdom.
 
 <h2>Metadata</h2>
 
