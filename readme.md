@@ -28,14 +28,11 @@ Metadata
 | **Medium** | Poster
 | **Materials** | Paper
 | **Date** | 1975-1999
-|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
+|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| Size: W 279 mm, H 432 mm<br>Used typeface: Optima<br><img src="https://i.imgur.com/DA7tA4b.png" alt="enter image description here">
 
 <p>“Unless there are not big variables, our homeland will be separately admitted to the UN in this year. This issue has many conditions that we cannot be fought against with all our’s might. <strong>However, we are responsible for informing many other countries that are solidarity about the issue of separation.</strong> In the meantime, we have always been in the position of one country but if we do not strongly protest the situation in which two countries are recognized separately, it becomes an international laughing matter. Let’s do the best propaganda activities we can. <strong>This is our own way to keep our dignity of National Democratic Movement.</strong>"</p>
 <p>(<a href="http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc"></a><a href="http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc">http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc</a>)</p>
-<h2 id="visual">Visual</h2>
-<p>Used typeface: Optima<br>
-<img src="https://i.imgur.com/DA7tA4b.png" alt="enter image description here"></p>
-<p>Size: W 279 mm, H 432 mm<br>
+
 Photos of original poster:<br>
 <img src="https://i.imgur.com/Qv2ooCX.jpg" alt="enter image description here" width="500px"></p>
 <p><img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="500px"></p>
