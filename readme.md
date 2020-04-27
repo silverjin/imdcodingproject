@@ -28,12 +28,8 @@ Metadata
 | **Medium** | Poster
 | **Materials** | Paper
 | **Date** | 1975-1999
-|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| Size: W 279 mm, H 432 mm<br>Used typeface: Optima<br>
-
-<img src="https://i.imgur.com/mruWv3r.jpg" alt="enter image description here" width="300px">
-<img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="300px">
-<img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here" width="300px">
-<img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="300px">
+|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| Size: W 279 mm, H 432 mm<br>Used typeface: Optima<br><img src="https://i.imgur.com/Pg9vBx8.png" alt="enter image description here">
+<img src="https://i.imgur.com/mruWv3r.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="300px">
 Background Image: Halftone effect
 <img src="https://i.imgur.com/mZFn9Bw.jpg" alt="enter image description here" width="300px">
 Currency: Dutch guilder (Symbol ƒ or fl.)
