@@ -3,7 +3,7 @@
 Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
+2. [Research](#Research)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
@@ -25,11 +25,6 @@ Meeting: Actie Noord-Korea, Actie Zuid-Korea<br>
 Subject Location: Netherlands</p>
 <p>“Unless there are not big variables, our homeland will be separately admitted to the UN in this year. This issue has many conditions that we cannot be fought against with all our’s might. <strong>However, we are responsible for informing many other countries that are solidarity about the issue of separation.</strong> In the meantime, we have always been in the position of one country but if we do not strongly protest the situation in which two countries are recognized separately, it becomes an international laughing matter. Let’s do the best propaganda activities we can. <strong>This is our own way to keep our dignity of National Democratic Movement.</strong>"</p>
 <p>(<a href="http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc"></a><a href="http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc">http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc</a>)</p>
-<ul>
-<li>S. Korea and the N. Korea were simultaneously admitted to the United Nations (UN) in 1991.</li>
-<li>On 8 August 1991, the UN Security Council passed United Nations Security Council Resolution 702, recommending both states to the UN General Assembly for membership.</li>
-<li>On 17 September 1991, the General Assembly admitted both countries under Resolution 46/1.</li>
-</ul>
 <h2 id="visual">Visual</h2>
 <p>Used typeface: Optima<br>
 <img src="https://i.imgur.com/DA7tA4b.png" alt="enter image description here"></p>
@@ -46,6 +41,9 @@ More info: <a href="https://en.wikipedia.org/wiki/Dutch_guilder">https://en.wiki
 <p><img src="https://i.imgur.com/ggeCXaK.jpg" alt="enter image description here" width="500px"><br>
 Address part written with red marker</p>
 <h1>Research</h1>
+<li>S. Korea and the N. Korea were simultaneously admitted to the United Nations (UN) in 1991.</li>
+<li>On 8 August 1991, the UN Security Council passed United Nations Security Council Resolution 702, recommending both states to the UN General Assembly for membership.</li>
+<li>On 17 September 1991, the General Assembly admitted both countries under Resolution 46/1.</li>
 <h2>Concert setlist</h2>
 <h3 id="part-1">Part 1</h3>
 <p>Music concert with famous Korean activist songs like ‘Gwangju stream’ and ‘March for Our Beloved’<br>
