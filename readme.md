@@ -35,7 +35,7 @@ Background Image: Halftone effect
 Currency: Dutch guilder (Symbol ƒ or fl.)
 More info: <a href="https://en.wikipedia.org/wiki/Dutch_guilder">https://en.wikipedia.org/wiki/Dutch_guilder</a>
 <img src="https://i.imgur.com/ggeCXaK.jpg" alt="enter image description here" width="300px">
-Address part written with red marker|
+Address part written with red marker
 
 <p>“Unless there are not big variables, our homeland will be separately admitted to the UN in this year. This issue has many conditions that we cannot be fought against with all our’s might. <strong>However, we are responsible for informing many other countries that are solidarity about the issue of separation.</strong> In the meantime, we have always been in the position of one country but if we do not strongly protest the situation in which two countries are recognized separately, it becomes an international laughing matter. Let’s do the best propaganda activities we can. <strong>This is our own way to keep our dignity of National Democratic Movement.</strong>"</p>
 <p>(<a href="http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc"></a><a href="http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc">http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc</a>)</p>
