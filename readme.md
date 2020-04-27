@@ -1,6 +1,6 @@
 <h1>Sound of Liberation</h1>
 
-Table of Contents
+<h3>Table of Contents</h3>
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research-h1)
@@ -18,16 +18,6 @@ The concert was aimed at informing the world of a message that prayed for the un
 Visited countries: Luxembourg, Belgium, Germany, the Netherlands, Ireland, France, United Kingdom
 
 <h2>Metadata</h2>
-| Tag | Data |  
-|--|--|
-**IISG Call Number** | [IISG BG D49/302](https://search.iisg.amsterdam/Record/1115576)
-| **Physical Description** | Poster
-| **Type** | Viual Documents
-| **Medium** | Poster
-| **Materials** | Paper
-| **Date** | 1975-1999
-|![enter image description here](https://camo.githubusercontent.com/f3bc3ad6ee9e4e22aea25c5628e9f15edd4ffa3a/68747470733a2f2f692e696d6775722e636f6d2f4569586a4457512e706e67)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
-
 <p><img src="https://i.imgur.com/EiXjDWQ.png" alt="enter image description here"></p>
 <p>Period: 1975-1999 (Actual Period: 1991)<br>
 Genres: Poster<br>
@@ -55,7 +45,9 @@ Currency: Dutch guilder (Symbol ƒ or fl.)<br>
 More info: <a href="https://en.wikipedia.org/wiki/Dutch_guilder">https://en.wikipedia.org/wiki/Dutch_guilder</a></p>
 <p><img src="https://i.imgur.com/ggeCXaK.jpg" alt="enter image description here" width="500px"><br>
 Address part written with red marker</p>
-<h2 id="setlist">Setlist</h2>
+<h1>Research</h1>
+<h2>Concert</h2>
+<h3 id="setlist">Setlist</h3>
 <h3 id="part-1">Part 1</h3>
 <p>Music concert with famous Korean activist songs like ‘Gwangju stream’ and ‘March for Our Beloved’<br>
 <a href="https://www.youtube.com/watch?v=COiqTaLOU0k">Live video of ‘Gwangju Stream’</a><br>
