@@ -28,16 +28,16 @@ Metadata
 | **Medium** | Poster
 | **Materials** | Paper
 | **Date** | 1975-1999
-|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755) Size: W 279 mm, H 432 mm<br>Used typeface: Optima<br><img src="https://i.imgur.com/DA7tA4b.png" alt="enter image description here"><br>
+|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| Size: W 279 mm, H 432 mm<br>Used typeface: Optima<br><img src="https://i.imgur.com/DA7tA4b.png" alt="enter image description here">
 <img src="https://i.imgur.com/mruWv3r.jpg" alt="enter image description here" width="300px">
 <img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="300px">
 <img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here" width="300px">
 <img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="300px">
 Background Image: Halftone effect
-<img src="https://i.imgur.com/mZFn9Bw.jpg" alt="enter image description here" width="300px"><br>
-Currency: Dutch guilder (Symbol ƒ or fl.)<br>
+<img src="https://i.imgur.com/mZFn9Bw.jpg" alt="enter image description here" width="300px">
+Currency: Dutch guilder (Symbol ƒ or fl.)
 More info: <a href="https://en.wikipedia.org/wiki/Dutch_guilder">https://en.wikipedia.org/wiki/Dutch_guilder</a>
-<img src="https://i.imgur.com/ggeCXaK.jpg" alt="enter image description here" width="300px"><br>
+<img src="https://i.imgur.com/ggeCXaK.jpg" alt="enter image description here" width="300px">
 Address part written with red marker|
 
 <p>“Unless there are not big variables, our homeland will be separately admitted to the UN in this year. This issue has many conditions that we cannot be fought against with all our’s might. <strong>However, we are responsible for informing many other countries that are solidarity about the issue of separation.</strong> In the meantime, we have always been in the position of one country but if we do not strongly protest the situation in which two countries are recognized separately, it becomes an international laughing matter. Let’s do the best propaganda activities we can. <strong>This is our own way to keep our dignity of National Democratic Movement.</strong>"</p>
