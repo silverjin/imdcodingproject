@@ -17,7 +17,6 @@ This artifact is a poster for Korean Cultural & Speaking Tour in Asia-Pacific Eu
 
 <h2>Metadata</h2>
 
-Metadata
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [IISG BG D49/302](https://search.iisg.amsterdam/Record/1115576)
