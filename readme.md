@@ -1,7 +1,7 @@
 <h1>Sound of Liberation</h1>
 
 Table of Contents
-1. [Artefact](#Artefact)
+1. [Artifact](#Artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research)
 3. [Transcoding](#Transcoding)
@@ -12,8 +12,8 @@ Table of Contents
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography)
 
-<h1>Artefact</h1>
-This artefact is a poster for Korean Cultural & Speaking Tour in Asia-Pacific Europe ‘Sound of Liberation’. The concert was aimed at informing the world of a message that prayed for the unification of Korea and refused to be separately registered with the UN. It was a European concert tour to Luxembourg, Belgium, Germany, the Netherlands, Ireland, France and United Kingdom.
+<h1>Artifact</h1>
+This artifact is a poster for Korean Cultural & Speaking Tour in Asia-Pacific Europe ‘Sound of Liberation’. The concert was aimed at informing the world of a message that prayed for the unification of Korea and refused to be separately registered with the UN. It was a European concert tour to Luxembourg, Belgium, Germany, the Netherlands, Ireland, France and United Kingdom.
 
 <h2>Metadata</h2>
 
@@ -26,7 +26,7 @@ Metadata
 | **Medium** | Poster
 | **Materials** | Paper
 | **Date** | 1975-1999
-|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| The title is written in both English and Korean, and the Korean title is written in Korean calligraphy. A picture of a man hitting a Kkwaenggwari is drawn in the middle, and a picture of people dancing together is printed in a background. At the bottom of the drawing, it explains what kind of performance this concert is and what intention it planned with smaller texts. There is an empty space below, and since every time the country and city of the performance changed, it seems that they tried to write down a new address every time by hand. This poster shows the date, time, title, address and admission of the venue in a red marker on the blank space.<br>Size: W 279 mm, H 432 mm<br>Paper: Cream colored corrugated paper<br>Used typeface: Optima<br>Background Image: Halftone effect<br>Address: Kargadoor (Oudegracht 36 3511 AP Utrecht)<br>Currency: Dutch guilder (Symbol ƒ or fl.) [https://en.wikipedia.org/wiki/Dutch_guilder](https://en.wikipedia.org/wiki/Dutch_guilder)<br><img src="https://i.imgur.com/D1rFTKt.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="300px">|
+|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| Size: W 279 mm, H 432 mm<br>Used typeface: Optima<br>Background Image: Halftone effect<br>Address: Kargadoor (Oudegracht 36 3511 AP Utrecht)<br>Currency: Dutch guilder (Symbol ƒ or fl.) [https://en.wikipedia.org/wiki/Dutch_guilder](https://en.wikipedia.org/wiki/Dutch_guilder)<br><img src="https://i.imgur.com/D1rFTKt.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="300px">|
 
 <h1>Research</h1>
 <li>S. Korea and the N. Korea were simultaneously admitted to the United Nations (UN) in 1991.</li>
@@ -107,3 +107,39 @@ Contribute to the formation of a large movement of solidarity with the Korean pe
 <p><b>Source Links</b><br>
 
 <h1>Reflection</h1>
+# Transcoding
+Even though we were born and raised in South Korea, we have never learned about the effort of overseas Koreans for Korean Reunification at school. Thus, we were surprised to find out that there were actually so many organizations that worked for the peaceful reunification of the Korean peninsula. Therefore, we felt the necessity of remembrance of their work and effort, and decided to set our concept for transcoding as a memorial tool. In short, it can be described in two keywords: **Unison** & **Oral tradition**. Our transcoding consits of two different tools; *Peace by Piece* -- a puzzle website --  and  *We Are One* -- a karaoke website.
+
+## Peace by Piece
+
+### Description
+With this transcoding tool, we aimed to build a memorial in respect of visual aspect. It is a platform where people can join to complete a puzzle, piece by piece in realtime. 
+
+### Methods
+Using the visual materials from our previous research, we generated the design of the puzzle. For the technical part, we used the code provided by Raymond Hill as an opensource. (Link - [http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php](http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php)) We edited html, css and javascript from the original code.
+
+### Tools
+
+Adobe Photoshop, Adobe Illustrator, Atom.
+
+### Results
+
+Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a  [hyperlink](https://github.com/IMD-Y3-2020/Example#)  to the final outcomes in the  **Transcoding**  section. In the final outcome section below you can embed or explain the final format outcome in detail.
+
+## We Are One
+
+### Description
+
+With this transcoding tool, we aimed to build a memorial platform in respect of verbal/oral aspect. It is a karaoke platform where people can record their own poetry reading of 'One Country' and store it on the website.
+
+### Methods
+
+This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.
+
+### Results
+
+The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
+
+### Source Links
+
+Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.
