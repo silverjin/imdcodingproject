@@ -100,3 +100,6 @@ Contribute to the formation of a large movement of solidarity with the Korean pe
 <a href="https://search.iisg.amsterdam/Record/1357662">https://search.iisg.amsterdam/Record/1357662</a></p>
 
 <h1>Transcoding</h1>
+<p><b>Aims</b><br>
+Contribute to the formation of a large movement of solidarity with the Korean people in their struggle to accomplish the independent and peaceful reunification of Korea.</p>
+<p><b>Artifact:</b><br>
