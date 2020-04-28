@@ -100,3 +100,4 @@ Contribute to the formation of a large movement of solidarity with the Korean pe
 <a href="https://search.iisg.amsterdam/Record/1357662">https://search.iisg.amsterdam/Record/1357662</a></p>
 
 <h1>Transcoding</h1>
+June 1977, Algiers (Algeria), consequent upon the World Conference for the Independent and Peaceful Reunification of Korea, 21-22 Feb 1977, Brussels (Belgium). Also referred to as: International Liaison Committee for Reunification and Peace of Korea – Comité international de liaison pour la réunification et la paix en Corée – Comité internacional de Enlace por la Réunificación y la Paz en Corea; International Network for Reconciliation and Reunification of Korea. No activities reported since 2009.</p>
