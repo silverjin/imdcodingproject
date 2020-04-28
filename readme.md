@@ -5,8 +5,8 @@ Table of Contents
     1. [Metadata](#Metadata)
 2. [Research](#Research)
 3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
+    1. [Peace by Piece](#Peace by Piece)
+    2. [We Are One](#We Are One)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
@@ -99,14 +99,6 @@ Contribute to the formation of a large movement of solidarity with the Korean pe
 <p><b>Artifact:</b><br>
 <a href="https://search.iisg.amsterdam/Record/1357662">https://search.iisg.amsterdam/Record/1357662</a></p>
 
-<h1>Transcoding</h1>
-<p><b>Description</b><br>
-Contribute to the formation of a large movement of solidarity with the Korean people in their struggle to accomplish the independent and peaceful reunification of Korea.</p>
-<p><b>Methods</b><br>
-<p><b>Results</b><br>
-<p><b>Source Links</b><br>
-
-<h1>Reflection</h1>
 # Transcoding
 Even though we were born and raised in South Korea, we have never learned about the effort of overseas Koreans for Korean Reunification at school. Thus, we were surprised to find out that there were actually so many organizations that worked for the peaceful reunification of the Korean peninsula. Therefore, we felt the necessity of remembrance of their work and effort, and decided to set our concept for transcoding as a memorial tool. In short, it can be described in two keywords: **Unison** & **Oral tradition**. Our transcoding consits of two different tools; *Peace by Piece* -- a puzzle website --  and  *We Are One* -- a karaoke website.
 
