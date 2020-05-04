@@ -1672,7 +1672,7 @@ PuzzlePiece.prototype.isMostlyHollow = function() {
 function PuzzlePreview(img) {
 	this.preview=true;
 	this.source=img;
-	this.shadow=8;
+	this.shadow=0;
 	this.size=160; // starting size
 	this.bbox=new Bbox(0,0,0,0);
 	}
@@ -1852,7 +1852,7 @@ function Puzzle(id,puzzleOptions) {
 			view:'full',
 			cut:'classic',
 			screenSize:'h1200',
-			src:'https://i.imgur.com/lJBFjj2.jpg',
+			src:'https://i.imgur.com/wOhCAkA.png',
 			numPieces:{full:25,mini:10},
 			complexity:1,
 			numRotateSteps:{full:24,mini:1},
@@ -1880,8 +1880,8 @@ function Puzzle(id,puzzleOptions) {
 		this.config.complexity=this.confine(puzzleOptions.complexity,0,9,defaultOptions.complexity);
 		this.config.numRotateSteps=this.confine(puzzleOptions.numRotateSteps,1,90,defaultOptions.numRotateSteps[this.config.view]);
 		this.config.screenSize=puzzleOptions.screenSize?puzzleOptions.screenSize:defaultOptions.screenSize;
-		this.config.bedWidth=puzzleOptions.bedWidth?puzzleOptions.bedWidth:{h600:600,h768:768,h1024:1024,h1050:1260,h1200:1400,h1600:1920}[this.config.screenSize];
-		this.config.bedHeight=puzzleOptions.bedHeight?puzzleOptions.bedHeight:{h600:450,h768:576,h1024:768,h1050:945,h1200:1040,h1600:1440}[this.config.screenSize];
+		this.config.bedWidth=puzzleOptions.bedWidth?puzzleOptions.bedWidth:{h600:600,h768:768,h1024:1024,h1050:1260,h740:1400,h1600:1920}[this.config.screenSize];
+		this.config.bedHeight=puzzleOptions.bedHeight?puzzleOptions.bedHeight:{h600:450,h768:576,h1024:768,h1050:945,h740:1400,h1600:1440}[this.config.screenSize];
 		this.config.bedMargin=self.Math.round(this.config.bedHeight*0.05);
 		this.config.src=puzzleOptions.src&&puzzleOptions.src.length>0?puzzleOptions.src:defaultOptions.src;
 		if (puzzleOptions.clusters) {this.config.clusters=puzzleOptions.clusters;}
@@ -2367,7 +2367,7 @@ function Puzzle(id,puzzleOptions) {
 	if (!this.canvas.getContext) {return;}
 	this.canvas.puzzle=me;
 	// if we get here, javascript and canvas tag are supported, so turn off alert
-	this.canvasParent.style.backgroundColor='#888';
+	this.canvasParent.style.backgroundColor='#eee';
 	// Properties
 	// insert a brand new canvas element into the page
 	this.canvasParent.innerHTML='';
