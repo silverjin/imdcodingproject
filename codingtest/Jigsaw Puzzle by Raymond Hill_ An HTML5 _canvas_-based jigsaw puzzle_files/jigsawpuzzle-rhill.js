@@ -1852,7 +1852,7 @@ function Puzzle(id,puzzleOptions) {
 			view:'full',
 			cut:'classic',
 			screenSize:'h1200',
-			src:'https://i.imgur.com/wOhCAkA.png',
+			src:'https://i.imgur.com/AxzZ9K0.png',
 			numPieces:{full:25,mini:10},
 			complexity:1,
 			numRotateSteps:{full:24,mini:1},
