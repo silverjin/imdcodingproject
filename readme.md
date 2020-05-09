@@ -2,16 +2,16 @@
 <h1>Sound of Liberation</h1>
 
 Table of Contents
-1. [Artifact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research)
-3. [Transcoding](#Transcoding)
+1. [Artifact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research)
+3. [Transcoding](#transcoding)
     1. [Peace by Piece](#peace-by-piece)
     2. [We Are One](#we-are-one)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography)
 
 <h2>Artifact</h2>
 This artifact is a poster for Korean Cultural & Speaking Tour in Asia-Pacific Europe ‘Sound of Liberation’. The concert was aimed at informing the world of a message that prayed for the unification of Korea and refused to be separately registered with the UN. It was a European concert tour to Luxembourg, Belgium, Germany, the Netherlands, Ireland, France and United Kingdom.
@@ -105,7 +105,7 @@ Even though we were born and raised in South Korea, we have never learned about 
 ## Peace by Piece
 
 ### Description
-With this transcoding tool, we aimed to build a memorial in respect of visual aspect. It is a platform where people can join to complete a puzzle, piece by piece in realtime. 
+With this transcoding tool, we aimed to build a memorial in respect of visual aspect. It is a platform where people can join to complete a puzzle, piece by piece in realtime. Our research process of discovering what kind of event this poster is and what kind of event it is also resembles a puzzle. As you match the puzzle, you can see the background and hidden stories of this poster and event.
 
 ### Methods
 Using the visual materials from our previous research, we generated the design of the puzzle. For the technical part, we used the code provided by Raymond Hill as an opensource. (Link - [http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php](http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php)) We edited html, css and javascript from the original code.
@@ -120,21 +120,3 @@ Still in process
  <img src="https://i.imgur.com/6pVdBNd.png" alt="enter image description here">
  <img src="https://i.imgur.com/W8z3oLC.gif" alt="enter image description here">
  http://eunjinahn.me/imdcodingproject/codingtest/index.htm
-
-## We Are One
-
-### Description
-
-With this transcoding tool, we aimed to build a memorial platform in respect of verbal/oral aspect. It is a karaoke platform where people can record their own poetry reading of 'One Country' and store it on the website.
-
-### Methods
-
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.
-
-### Results
-
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
-
-### Source Links
-
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.
