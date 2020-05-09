@@ -91,7 +91,7 @@ Founded by Korean-Japanese in August 15, 1973, based in Tokyo, Japan<br><br>
 <img src="https://i.imgur.com/rrKndvZ.png" alt="enter image description here"><br>
 Pan-National Conference for Peace and Reunification of Korea in West Berlin</p>
 <p></p><h3>International Liaison Committee for Reunification and Peace in Korea (CILRECO)</h3><p></p>
- <img src="https://i.imgur.com/gbDQB0i.png" alt="enter image description here">
+ <img src="https://i.imgur.com/gbDQB0i.png" alt="enter image description here" width="250px">
 <p><b>History</b><br>
 June 1977, Algiers (Algeria), consequent upon the World Conference for the Independent and Peaceful Reunification of Korea, 21-22 Feb 1977, Brussels (Belgium). Also referred to as: International Liaison Committee for Reunification and Peace of Korea – Comité international de liaison pour la réunification et la paix en Corée – Comité internacional de Enlace por la Réunificación y la Paz en Corea; International Network for Reconciliation and Reunification of Korea. No activities reported since 2009.</p>
 <p><b>Aims</b><br>
