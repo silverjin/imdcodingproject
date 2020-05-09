@@ -108,7 +108,7 @@ Even though we were born and raised in South Korea, we have never learned about 
 With this transcoding tool, we aimed to build a memorial in respect of visual aspect. It is a platform where people can join to complete a puzzle, piece by piece in realtime. Our research process of discovering what kind of event this poster is and what kind of event it is also resembles a puzzle. As you match the puzzle, you can see the background and hidden stories of this poster and event.
 
 ### Methods
-Using the visual materials from our previous research, we generated the design of the puzzle. For the technical part, we used the code provided by Raymond Hill as an opensource. (Link - [http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php](http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php)) We edited html, css and javascript from the original code.
+Using the visual materials from our previous research, we generated the design of the puzzle. For the technical part, we used the code provided by Raymond Hill as an opensource. (Link: [http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php](http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php)) We edited html, css and javascript from the original code.
 
 ### Tools
 
