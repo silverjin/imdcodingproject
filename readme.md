@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/RWGfvpl.png">
+<img src="https://i.imgur.com/XAGswry.png">
 <h1>Sound of Liberation</h1>
 
 Table of Contents
