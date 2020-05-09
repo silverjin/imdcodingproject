@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/RWGfvpl.png">
 <h1>Sound of Liberation</h1>
 
 Table of Contents
@@ -118,7 +119,7 @@ Adobe Photoshop, Adobe Illustrator, Atom.
 Still in process
  <img src="https://i.imgur.com/6pVdBNd.png" alt="enter image description here">
  <img src="https://i.imgur.com/W8z3oLC.gif" alt="enter image description here">
- http://eunjinahn.xyz/imdcodingproject/codingtest/index.htm
+ http://eunjinahn.me/imdcodingproject/codingtest/index.htm
 
 ## We Are One
 
