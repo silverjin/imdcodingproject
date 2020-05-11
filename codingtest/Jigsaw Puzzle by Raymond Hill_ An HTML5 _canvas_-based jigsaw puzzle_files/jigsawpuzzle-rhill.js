@@ -1852,8 +1852,8 @@ function Puzzle(id,puzzleOptions) {
 			view:'full',
 			cut:'classic',
 			screenSize:'h1200',
-			src:'https://i.imgur.com/AxzZ9K0.png',
-			numPieces:{full:25,mini:10},
+			src:'https://i.imgur.com/wOhCAkA.png',
+			numPieces:{full:100,mini:10},
 			complexity:1,
 			numRotateSteps:{full:24,mini:1},
 			showPreview:false};
@@ -2367,7 +2367,7 @@ function Puzzle(id,puzzleOptions) {
 	if (!this.canvas.getContext) {return;}
 	this.canvas.puzzle=me;
 	// if we get here, javascript and canvas tag are supported, so turn off alert
-	this.canvasParent.style.backgroundColor='#eee';
+	this.canvasParent.style.backgroundColor='transparent';
 	// Properties
 	// insert a brand new canvas element into the page
 	this.canvasParent.innerHTML='';

@@ -1,5 +1,6 @@
 body {
-  background-color: #eeeeee;
+  background-image: url("https://i.imgur.com/blQOfAj.png");
+  background-repeat: repeat;
   font-family: helvetica;
   margin: 4px;
   padding:0;
@@ -7,25 +8,38 @@ body {
   overflow-x: hidden;
 }
 
-a {
-text-decoration:none;
+a:link {
+  color: black;
+  text-decoration: none;
 }
 
+/* visited link */
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+/* mouse over link */
 a:hover {
-text-decoration:underline;
+  color: red;
+  text-decoration: none;
 }
 
-::-webkit-scrollbar {
-    width: 8px;
+/* selected link */
+a:active {
+  color: black;
+  text-decoration: none;
 }
 
-::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0);
-    border-radius: 10px;
-}
 
-::-webkit-scrollbar-thumb {
-    border-radius: 10px;
-    background-color: #555;
-    -webkit-box-shadow: inset 0 0 5px #fff;
+.grey {
+  position: absolute;
+  background-color: #eee;
+  margin-top: 26px;
+  margin-left: -20px;
+  overflow:scroll;
+overflow-y: hidden;
+overflow-x: hidden;
+white-space:nowrap;
+
 }
