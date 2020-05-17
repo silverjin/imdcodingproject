@@ -1,0 +1,211 @@
+body {
+  background-image: url("https://i.imgur.com/blQOfAj.png");
+  background-repeat: repeat;
+  font-family: helvetica;
+  margin: 0px;
+  padding:0;
+  border:0;
+  overflow-x: hidden;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: black;
+  text-decoration: none;
+}
+
+
+.grey {
+  position: absolute;
+  background-color: #eee;
+  margin-top: 17px;
+  margin-left: -16px;
+  overflow:scroll;
+overflow-y: hidden;
+overflow-x: hidden;
+white-space:nowrap;
+
+}
+
+
+/* Popup container - can be anything you want */
+.popup {
+  position: absolute;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  width: 1200px;
+  padding: 10px;
+  background-color: #363434;
+  color: #fff;
+  text-align: center;
+  vertical-align:middle;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+  left: 100px;
+  font-size: 20px;
+
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+
+.player {
+  color: white;
+  font-family: helvetica;
+  font-size: 15px;
+  width: 100%;
+  height: 25px;
+  position: absolute;
+  background: black;
+  padding: 5px;
+  opacity: .5;
+  margin-top:310px;
+  margin-left: -14px;
+    overflow: hidden;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  white-space: nowrap;
+}
+.player .button {
+  color: white;
+  font-family: helvetica;
+  font-size: 15px;
+  background: transparent;
+  width: 40px;
+  display: inline-block;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 0px;
+  padding-left:10px;
+  top:7px;
+}
+
+.player #prev {
+    border-radius: 10px 10px 10px 10px;
+}
+.player #play {
+  border-radius: 10px 10px 10px 10px;
+}
+.player #next {
+  border-radius: 10px 10px 10px 10px;
+}
+.player .range {
+  -webkit-appearance: none;
+  background: #323232;
+  height: 45%;
+  border: solid 1px white;
+  border-radius: 5px;
+  position: relative;
+  outline: none;
+  top: -5px;
+  width: 85%;
+  margin-left: 14px;
+}
+.player .range::-moz-range-track {
+  -moz-appearance: none;
+  height: 45%;
+  border-radius: 5px;
+  margin: 0;
+  position: relative;
+  outline: none;
+  top: -25%;
+}
+.player .range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 10px;
+  height: 15px;
+  box-shadow: 0px 0px 5px grey;
+  background: white;
+  border-radius: 5px;
+}
+.player .range::-moz-range-thumb {
+  -moz-appearance: none;
+  width: 10px;
+  height: 25px;
+  box-shadow: 0px 0px 5px grey;
+  background: white;
+  border-radius: 5px;
+
+}
+.player #time {
+  color: white;
+  font-family: helvetica;
+  font-size: 15px;
+  position: relative;
+  top: -7px;
+  color: #fff;
+}
+
+.player #volume .container {
+  position: absolute;
+  top: 7%;
+  -webkit-transition: all 300ms;
+  transition: all 300ms;
+  left: 94%;
+  width: 0px;
+  height: 30px;
+  padding-top: 9px;
+}
+.player #volume .container .range {
+  width: 90%;
+  display: block;
+  height: 14px;
+  border-radius: 0px 0px 0px 0px;
+  opacity: 0;
+  -webkit-transition: all 300ms;
+  transition: all 300ms;
+}
