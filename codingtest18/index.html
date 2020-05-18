@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<!-- saved from url=(0062)http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<title>Piece by Piece</title>
+<meta name="Keywords" lang="en" content="HTML5, &lt;canvas&gt;, jigsaw, puzzle, javascript, raymond hill">
+<script type="text/javascript" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/jigsawpuzzle-rhill.js"></script>
+<script type="text/javascript">
+<!--
+function initAll(){
+	var tabs=["Solve"];
+	self.puzzleGadgetTabs=new self.gadgets.TabSet("Solve");
+	for (var i in tabs) {
+		var id=tabs[i];
+		self.puzzleGadgetTabs.addTab(id,{contentContainer:self.document.getElementById("puzzleTab"+id)});
+		}
+	var options = {
+				view:"full",
+		src:null,
+		bedWidth:null,
+		bedHeight:null		};
+	new Puzzle("puzzleParent",options);
+	}
+self.gadgets.util.registerOnLoadHandler(initAll);
+// -->
+
+			// When the user clicks on div, open the popup
+			function myFunction() {
+			  var popup = document.getElementById("myPopup");
+			  popup.classList.toggle("show");
+			}
+
+</script>
+<style type="text/css">
+table {margin:0;padding:0;border:0;}
+tr {padding:0;border:0;}
+td {padding:0;border:0;vertical-align:top;}
+.divinfo {width:800px;margin-top:0;margin-bottom:1em;padding:0.5em;border:1px solid #ccc;}
+div.tabHeaderOff,div.tabHeaderOff {display:inline;padding:6px;margin:0;border-left:1px solid #888;border-top:1px solid #aaa;border-right:1px solid #aaa;cursor:pointer;}
+div.tabHeaderOff {border-bottom:0px solid #888;background-color:#ccc;color:#666;}
+div.tabHeaderOff {border-bottom:0px solid #fff;background-color:#fff;color:#000;}
+td.preset {padding:2px 4px 2px 4px;}
+img:hover {border:1px solid #ccc;border-right-color:#888;border-bottom-color:#888;}
+</style>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body id="puzzleRoot">
+<div id="tabHeaderContainer" style="border:0;padding-left: 10px; margin-top: -14px;">
+	<h1 style="text-align: center;">Sound of Liberation: Bring peace by putting pieces together</h1>
+	<div id="puzzleTabHeaderSolve" class="tabHeaderOff"></div>
+</div>
+<!-- <body style="text-align:center"> -->
+
+				<div class="popup" style="margin-top: -16px; padding:0em;">
+				  <span class="popuptext" id="myPopup">S. Korea and the N. Korea were simultaneously admitted to the United Nations (UN) in 1991.</span>
+				</div>
+
+<div id="tabContentContainer" style="border:0px solid #888; padding:4px">
+
+<div id="puzzleTabSolve" style="font-family: Helvetica, sans-serif; font-size: 12px;">
+<div style="">
+<div id="puzzleParent" style="background-color: rgb(136, 136, 136); margin-top: 20px; padding:0.5em; color: black; align-content: center;">
+	<canvas id="puzzleCanvas" style="cursor: auto; padding:1.0em;">
+<p style="margin-bottom:0">This Jigsaw Puzzle game requires that your browser supports the <a target="_blank" href="http://en.wikipedia.org/wiki/Canvas_(HTML_element)">HTML5 &lt;canvas&gt; element</a>. See <a target="_blank" href="http://en.wikipedia.org/wiki/Canvas_(HTML_element)">Wikipedia</a> for information on which browsers support the <u>HTML5 &lt;canvas&gt;</u> technology. Google code offers <a href="http://code.google.com/p/explorercanvas/">ExplorerCanvas</a> to bring the functionality of the &lt;canvas&gt; tag to Internet Explorer, unfortunately, complex clipping regions are not supported, a requirement for this software.</p>
+<p><img src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/jigsawpuzzle-rhill-gadget-snapshot.png" alt="Snapshot"> <br><small>Thumbnail preview</small></p>
+</canvas></div>
+<audio id="puzzleSnap1" autobuffer=""><source src="http://www.raymondhill.net/puzzle-rhill/12842__schluppipuppie__klick_01.ogg"><source src="http://www.raymondhill.net/puzzle-rhill/12842__schluppipuppie__klick_01.wav"></audio>
+<audio id="puzzleSnap2" autobuffer=""><source src="http://www.raymondhill.net/puzzle-rhill/12843__schluppipuppie__klick_02.ogg"><source src="http://www.raymondhill.net/puzzle-rhill/12843__schluppipuppie__klick_02.wav"></audio>
+<audio id="puzzleClap1"><source src="http://www.raymondhill.net/puzzle-rhill/35102_m1rk0_applause_5sec.ogg"><source src="http://www.raymondhill.net/puzzle-rhill/35102_m1rk0_applause_5sec.mp3"></audio>
+<audio id="puzzleClap2"><source src="http://www.raymondhill.net/puzzle-rhill/35104_m1rk0_applause_8sec.ogg"><source src="http://www.raymondhill.net/puzzle-rhill/35104_m1rk0_applause_8sec.mp3"></audio>
+<audio id="puzzleClap3"><source src="http://www.raymondhill.net/puzzle-rhill/60789_J.Zazvurek_Applause_9s.ogg"><source src="http://www.raymondhill.net/puzzle-rhill/60789_J.Zazvurek_Applause_9s.mp3"></audio>
+<div style="margin-top:1.9em;">
+<input id="puzzleShowEdges" style="background-color: #eee; font-size: 20px; color: #000; width:11em;padding:7px;border:solid 1px #333;" type="button" value="Show edge pieces only" onclick="javascript:this.toggleEdges();">&nbsp;&nbsp;
+<input id="puzzleShowPreview" style="background-color: #eee; font-size: 20px; color: #000; width:11em;padding:7px;border:solid 1px #333;" type="button" value="Show preview" onclick="javascript:this.togglePreview();" >
+</div>
+<div class="grey" style="background-color: #eee; width:100%;">
+<div style="margin-top:1em;font-size:20px; padding: 0px 0px 0px 25px; color:black">
+How to play:
+<ul style="margin-top:0;">
+Click on a piece to move it, click again to release it<br>
+<b>Left</b> and <b>right</b> arrows (or alternatively <b>'A'</b> or <b>'D'</b>, or <b>mousewheel</b>) to rotate a piece<br>
+<b>Up</b> and <b>down</b> arrows (or alternatively <b>'W'</b> or <b>'S'</b>) to send a piece behind or on top of other pieces<br>
+<b>'E'</b> to toggle on/off visibility of non-edge pieces<br>
+<b>'Q'</b> to show/hide preview tile<br>
+<b>Space bar</b> to show/hide non-composite pieces (pieces made up of two or more atomic pieces)</ul>
+	More on:
+	<ul style="margin-top:0;">
+	<a href="https://catalog-of-archival-resilience.herokuapp.com/transcoding/silverjin">https://catalog-of-archival-resilience.herokuapp.com/transcoding/silverjin</a>
+</ul>
+
+</div>
+</div>
+</div>
+
+<div id="puzzleTabPresets" style="display:none">
+Preferred screen size:&nbsp;<select id="puzzlePreferredSize">
+<option value="h600" selected="selected">800�600</option>
+<option value="h768">1024�768</option>
+<option value="h1024">1280�1024</option>
+<option value="h1050">1680�1050</option>
+<option value="h1200">1920�1200</option>
+<option value="h1600">2560�1600</option>
+</select><br>
+Preferred number of pieces:&nbsp;<select id="puzzlePreferredNumPieces">
+<option value="25" selected="selected">25</option>
+<option value="50">50</option>
+<option value="100">100</option>
+<option value="200">200</option>
+<option value="300">300</option>
+<option value="500">500</option>
+</select> <span style="color:#aaa;font-size:10px">A high number of pieces can cause a delay at creation time.</span><br><br>
+Click on a thumbnail below to create a jigsaw puzzle with the above settings.
+<hr style="background-color:#ccc;height:1px;border:0">
+<span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-PIA16873-Planck-CMB-NASA-20130321.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Best Map Ever of the Universe�</span> <a style="font-size:9px" href="https://commons.wikimedia.org/wiki/File:PIA16873-Planck-CMB-NASA-20130321.jpg">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php">ESA and the Planck Collaboration</a><br>
+<span style="color:gray">Source:</span> <a href="https://commons.wikimedia.org/wiki/File:PIA16873-Planck-CMB-NASA-20130321.jpg">Wikimedia Commons</a><br>
+<span style="color:gray">Added on:</span> Tuesday, March 26, 2013</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-handmade-tiles.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Handmade Tiles�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?image=13925">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=87">Vera Kratochvil</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Saturday, May 7, 2011</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-1275-1245716394KlVp.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Pier to the Lighthouse�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?image=3171&amp;picture=pier-to-the-lighthouse">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=1275">Barb Ver Sluis</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Sunday, June 20, 2010</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-1-1276419985JqnB.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Colorful houses�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?image=7223&amp;picture=colorful-houses">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=1">Petr Kratochvil</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Sunday, June 20, 2010</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-311-1216983920KU0Z.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Bicycle Marathon�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?image=938&amp;picture=bicycle-marathon">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=311">Vojko Kalan</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Sunday, June 20, 2010</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-296-1275367500mFky.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Primary School Students�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?image=7018&amp;picture=primary-school-students">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=296">Peter Griffin</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Sunday, June 20, 2010</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-20090106-lagoa-da-concei��o.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Gathering clouds�</span> <a style="font-size:9px" href="http://www.raymondhill.net/puzzle-rhill/images/full-20090106-lagoa-da-concei%C3%A7%C3%A3o.jpg">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php">Raymond Hill</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php"></a><br>
+<span style="color:gray">Added on:</span> Thursday, January 7, 2010</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-20091206-praia-dos-ingleses.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Praia dos Ingleses�</span> <a style="font-size:9px" href="http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php">Raymond Hill</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php"></a><br>
+<span style="color:gray">Added on:</span> Sunday, December 6, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-322-1222568027XSgy.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Marmot Paradise�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=marmot-no-paraiso&amp;image=1223">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=322">Robert Kraft</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Thursday, December 3, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-355-1217563924HJlf.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Boats In Harbor�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=boats-in-harbor&amp;image=1002">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=355">Wesley Tyler</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Thursday, October 29, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-1-1243170323acfB.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Statue in corfu�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=statue-in-corfu&amp;image=2875">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=1">Petr Kratochvil</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Thursday, October 29, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-IMG_1731.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Before the storm�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=before-the-storm&amp;image=286">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=1">Petr Kratochvil</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Thursday, October 22, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-296-1246750935yhWn.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Parade route �</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=parade-route&amp;image=3287">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=296">Peter Griffin</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Thursday, October 22, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-417-12234329802hQr.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Akkanna Madanna Cave�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=akkanna-madanna-cave&amp;image=1289">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=417">mohan p</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Wednesday, October 21, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-55_wpm_hires.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Closeup of a lion�</span> <a style="font-size:9px" href="http://www.webphotomart.com/stockphoto/55">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.webphotomart.com/photos.php?t=all&amp;s=0&amp;l=40&amp;o=popular&amp;lic=all&amp;a=1">Benjamin Miller</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.webphotomart.com/">Web Photo Mart</a><br>
+<span style="color:gray">Added on:</span> Wednesday, October 21, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-947-1237151709nuQN.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�City Tour Bus�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=city-tour-bus&amp;image=2158">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=947">Michael Drummond</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Tuesday, October 20, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-1-1225577027HLjR.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Autumn Scene�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=autumn-scene&amp;image=1435">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=1">Petr Kratochvil</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Tuesday, October 20, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-355-12175636827Kad.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Sunken Garden�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=sunken-garden&amp;image=1001">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=355">Wesley Tyler</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Monday, October 19, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-1275-1245718320jF8H.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Hanging at the beach�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=hanging-at-the-beach&amp;image=3176">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=1275">Barb Ver Sluis</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Sunday, October 18, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-33-1215715996aPLX.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Parrot�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=parrot&amp;image=870">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=33">Anna Cervova</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Saturday, October 17, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-1-1224013838Q805.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Street�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=street&amp;image=1345">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=1">Petr Kratochvil</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Friday, October 16, 2009</span><span style="display:inline-block;width:250px;height:125px;vertical-align:top;margin:4px;padding:8px;font-size:11px;background-color:#eee">
+<img style="border:1px solid #fff;cursor:pointer;" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/thumbnail-296-1222374649FQtR.jpg" title="Solve this one..." alt="Solve this one..."><br>
+<span style="color:gray">Title:</span> <span style="font-weight:bold">�Chinese money 100 rmb�</span> <a style="font-size:9px" href="http://www.publicdomainpictures.net/view-image.php?picture=money&amp;image=1211">(Source...)</a><br>
+<span style="color:gray">Author:</span> <a href="http://www.publicdomainpictures.net/browse-author.php?a=296">Peter Griffin</a><br>
+<span style="color:gray">Source:</span> <a href="http://www.publicdomainpictures.net/">Public Domain Pictures.net</a><br>
+<span style="color:gray">Added on:</span> Thursday, October 15, 2009</span></div>
+
+<div id="puzzleTabCreate" style="display:none">
+<table style="margin-top:1em;font-family:Helvetica,sans-serif;font-size:12px">
+<tbody><tr><td style="vertical-align:top">Cut&nbsp;</td><td style="vertical-align:top"><select id="puzzleCut"><option value="classic" selected="selected">Classic</option><option value="straight">Straight</option><option value="tenon">Tenon</option><option value="wave">Wave</option></select></td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td style="white-space:nowrap;vertical-align:top">Screen size&nbsp;</td><td style="vertical-align:top"><select id="puzzleScreenSize"><option value="h600">800�600</option><option value="h768">1024�768</option><option value="h1024" selected="selected">1280�1024</option><option value="h1050">1680�1050</option><option value="h1200">1920�1200</option></select>
+<span style="color:#888">(Screen size determine work area size, which determine puzzle size, which influence the size of individual pieces)</span></td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td style="white-space:nowrap;vertical-align:top">Suggested number of pieces&nbsp;</td><td style="vertical-align:top"><input id="puzzlePieces" type="text" size="2" maxlength="3" value="16">
+<span style="color:#888">(This number is used as a guide only, restrictions may apply. More pieces = smaller pieces)</span></td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td style="white-space:nowrap;vertical-align:top">Complexity of puzzle pieces&nbsp;</td><td style="vertical-align:top"><select id="puzzleComplexity"><option value="0">Regular</option><option value="1" selected="selected">Slightly irregular</option><option value="3">Moderatly irregular</option><option value="8">Very irregular</option></select></td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td style="white-space:nowrap;vertical-align:top">Whether pieces can be rotated&nbsp;</td><td style="vertical-align:top"><select id="puzzleRotate"><option value="1">No rotation</option><option value="4">Rotate 90�</option><option value="24" selected="selected">Rotate fully</option></select></td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td style="white-space:nowrap;vertical-align:top">URL of picture to use&nbsp;</td><td style="vertical-align:top"><input id="puzzleURL" type="text" size="80" maxlength="256" value="">
+<span style="color:#888">(Of interest: <a target="_blank" href="http://en.wikipedia.org/wiki/Public_domain_image_resources#General_collections">general collections of public domain images</a>)</span></td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td style="color:#f77;" colspan="2">Beware: Clicking on the �Create� button will cause the current jigsaw puzzle in the �Solve� tab to be replaced. Also, note that the more pieces there are, the longer it will take to generate the jigsaw puzzle, so you might experience a delay.</td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td style="white-space:nowrap;vertical-align:top"><input id="puzzleCreate" style="width:9em;padding:3px;border:solid 1px #333;" type="button" value="Create" onclick="javascript:this.createPuzzle();self.location.hash=&#39;#&#39;;"></td></tr>
+</tbody></table>
+</div>
+
+<div id="puzzleTabShare" style="display:none">
+<div style="margin-top:1em;font-family:Helvetica,sans-serif;font-size:12px">
+<p>You can generate a <b>permalink</b> of the current state of your puzzle (progress included!):<br>
+<input id="puzzleGeneratePermalink" style="width:9em;padding:3px;border:solid 1px #333;" type="button" value="Create permalink" onclick="javascript:this.generatePuzzlePermalink();">&nbsp;<input id="puzzlePermalink" style="padding:3px;" type="text" size="100" readonly="readonly" value="" onclick="javascript:this.focus();this.select();"></p>
+<p style="display:none"><a id="puzzleEmailTo" href="mailto:?subject=Have%20fun%20with%20this%20jigsaw%20puzzle!&amp;body=http%3A%2F%2Fwww.raymondhill.net%2Fpuzzle-rhill%2Fjigsawpuzzle-rhill.php">Email this permalink to...</a></p>
+<p>Alternatively, you can generate a <b>Jigsaw Puzzle Key</b> identifying uniquely the current state of your puzzle (progress included!):<br>
+<input id="puzzleGenerateKey" style="width:9em;padding:3px;border:solid 1px #333;" type="button" value="Generate key" onclick="javascript:this.generatePuzzleKey();">&nbsp;<input id="puzzleKeyOut" style="padding:3px;" type="text" size="100" readonly="readonly" value="" onclick="javascript:this.focus();this.select();"><br><span style="font-size:11px;color:#999">(Be sure to copy <b>all</b> the characters!)</span></p>
+<p>You can save this key for later use, or you can send this key to a friend, who can then use it to generate the same puzzle on his side.</p>
+<p>A friend sent you a <b>Jigsaw Puzzle Key</b>? Enter it here to generate his/her custom-made jigsaw puzzle in your �Solve� tab:<br>
+<input id="puzzleKeyInCreate" style="width:9em;padding:3px;border:solid 1px #333;" type="button" value="Create" onclick="javascript:this.createPuzzleFromKey();">&nbsp;<input id="puzzleKeyIn" style="padding:3px;" type="text" size="100" value=""><br><span style="font-size:11px;color:#999">(Be sure to paste <b>all</b> the characters!)</span></p>
+<p style="white-space:nowrap;color:#f77;">Beware: Clicking on the �Create� button will cause the current jigsaw puzzle to be replaced (Your selected �Screen size� setting will be preserved though.)</p>
+</div>
+</div>
+
+<div id="puzzleTabAbout" style="display:none;">
+<div style="margin-top:1em;font-family:Helvetica,sans-serif;font-size:12px">
+<p>Jigsaw Puzzle by <a href="http://www.raymondhill.net/">Raymond Hill</a>: <a target="_top" href="http://www.raymondhill.net/puzzle-rhill/">Project's Home page</a></p>
+<p>I started this project as an experiment with the <a href="http://en.wikipedia.org/wiki/Canvas_(HTML_element)">HTML5 canvas</a> element.
+It grew a bit bigger than what I had imagined, as I kept adding features, just for the fun and challenge of dealing with geometrical concepts.
+Also, for jigsaw puzzle fans out there, I am just happy to enable you to create your own puzzle, small or big, easy or hard, and with no strings attached (no ads, no questions asked, etc.)</p>
+<p>I am currently working on the next release in which I would like to allow fancy tiling.</p>
+<p>Portions of this software use the work of...</p>
+<ul>
+ <li style="margin-top:0.25em;">Images:<ul>
+  <li><a target="_blank" href="http://www.publicdomainpictures.net/view-image.php?image=376">�Autumn Fruits�, by Petr Kratochvil</a>: The default picture used in preview mode.</li>
+  <li><a target="_blank" href="http://www.publicdomainpictures.net/view-image.php?image=2876">�Melbourne Australia�, by Michael Stirling</a>: The default picture used in full mode.</li>
+  </ul></li>
+ <li style="margin-top:0.25em;">Sound effects:<ul style="margin-bottom:0.5em;">
+  <li><a target="_blank" href="http://www.freesound.org/">The Freesound Project</a>'s <a target="_blank" href="http://www.freesound.org/samplesViewSingle.php?id=12842">�klick - 01.wav�</a>, by <a target="_blank" href="http://www.freesound.org/usersViewSingle.php?id=4942">Marcus Horndt</a></li>
+  <li><a target="_blank" href="http://www.freesound.org/">The Freesound Project</a>'s <a target="_blank" href="http://www.freesound.org/samplesViewSingle.php?id=12843">�klick - 02.wav�</a>, by <a target="_blank" href="http://www.freesound.org/usersViewSingle.php?id=4942">Marcus Horndt</a></li>
+  <li><a target="_blank" href="http://www.freesound.org/">The Freesound Project</a>'s <a target="_blank" href="http://www.freesound.org/samplesViewSingle.php?id=35102">�applause_5sec.wav�</a>, by <a target="_blank" href="http://www.freesound.org/usersViewSingle.php?id=140756">Mirko Horstmann</a></li>
+  <li><a target="_blank" href="http://www.freesound.org/">The Freesound Project</a>'s <a target="_blank" href="http://www.freesound.org/samplesViewSingle.php?id=35104">�applause_5sec.wav�</a>, by <a target="_blank" href="http://www.freesound.org/usersViewSingle.php?id=140756">Mirko Horstmann</a></li>
+  <li><a target="_blank" href="http://www.freesound.org/">The Freesound Project</a>'s <a target="_blank" href="http://www.freesound.org/samplesViewSingle.php?id=60789">�Applause 9s.mp3�</a>, by <a target="_blank" href="http://www.freesound.org/usersViewSingle.php?id=199526">J.Zazvurek</a></li>
+  </ul></li>
+ <li style="margin-top:0.25em;">Software:<ul>
+  <li><a target="_blank" href="http://www.schillmania.com/projects/soundmanager2/">�SoundManager 2�, by Scott Schiller</a>: An excellent library that brings audio functionality to Javascript. <span style="color:#f77">No longer used in the latest version, HTML5 &lt;audio&gt; tag is now used.</span></li>
+  <li><a target="_blank" href="http://local.wasp.uwa.edu.au/~pbourke/geometry/polyarea/">�Calculating the area and centroid of a polygon�, by Paul Bourke</a>: For his code snippets on how to calculate the centroid of a polygon (necessary to be able to rotate pieces properly.)</li>
+  <li><a target="_blank" href="http://www.webtoolkit.info/javascript-base64.html">�Javascript base64�</a>: For the code snippet on how to encode/decode <a href="http://en.wikipedia.org/wiki/Base64">Base 64</a> (I used Base 64 to encode/decode Jigsaw Puzzle Keys, the current mechanism to share custom-made puzzles.</li>
+  <li><a target="_blank" href="http://www.quirksmode.org/js/events_properties.html#position">�Event properties / Mouse position�, by Peter-Paul Koch</a>: For his code snippet on how to correctly detect mouse coordinates.</li>
+  </ul></li>
+ </ul>
+<p><a href="http://www.raymondhill.net/">Jigsaw Puzzle by Raymond Hill</a> is licensed under a <a rel="license" href="http://www.opensource.org/licenses/mit-license.php">MIT License (MIT)</a>:</p>
+<blockquote>
+<p>Copyright (c) 2009-2011 Raymond Hill</p>
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+</blockquote>
+<p></p>
+</div>
+</div>
+
+</div>
+
+
+
+</body></html>
