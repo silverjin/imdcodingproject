@@ -1880,8 +1880,8 @@ function Puzzle(id,puzzleOptions) {
 		this.config.complexity=this.confine(puzzleOptions.complexity,0,9,defaultOptions.complexity);
 		this.config.numRotateSteps=this.confine(puzzleOptions.numRotateSteps,1,90,defaultOptions.numRotateSteps[this.config.view]);
 		this.config.screenSize=puzzleOptions.screenSize?puzzleOptions.screenSize:defaultOptions.screenSize;
-		this.config.bedWidth=puzzleOptions.bedWidth?puzzleOptions.bedWidth:{h600:600,h768:768,h1024:1024,h1050:1260,h740:1400,h1600:1920}[this.config.screenSize];
-		this.config.bedHeight=puzzleOptions.bedHeight?puzzleOptions.bedHeight:{h600:450,h768:576,h1024:768,h1050:945,h740:1400,h1600:1440}[this.config.screenSize];
+		this.config.bedWidth=puzzleOptions.bedWidth?puzzleOptions.bedWidth:{h600:600,h768:768,h1024:1024,h1050:1260,h1200:1380,h1600:1920}[this.config.screenSize];
+		this.config.bedHeight=puzzleOptions.bedHeight?puzzleOptions.bedHeight:{h600:450,h768:576,h1024:768,h1050:945,h1200:600,h1600:1440}[this.config.screenSize];
 		this.config.bedMargin=self.Math.round(this.config.bedHeight*0.05);
 		this.config.src=puzzleOptions.src&&puzzleOptions.src.length>0?puzzleOptions.src:defaultOptions.src;
 		if (puzzleOptions.clusters) {this.config.clusters=puzzleOptions.clusters;}
