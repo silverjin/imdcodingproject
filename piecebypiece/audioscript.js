@@ -18,7 +18,9 @@ function replaceClass(el, className, className2){
   addClass(el, className2);
 }
 
-var url = 'http://eunjinahn.me/imdcodingproject/codingtest/ourcountryisone.mp3';
+
+var url = 'http://eunjinahn.me/imdcodingproject/gwangjustream.mp3';
+
 
 var audio = new Audio(url);
 
