@@ -2,7 +2,7 @@
 <!-- saved from url=(0062)http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php -->
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
-<title>Piece by Piece</title>
+<title>Sound of Liberation: Bring peace by putting pieces together</title>
 <meta name="Keywords" lang="en" content="HTML5, &lt;canvas&gt;, jigsaw, puzzle, javascript, raymond hill">
 <script type="text/javascript" src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/jigsawpuzzle-rhill.js"></script>
 <script type="text/javascript">
@@ -45,49 +45,63 @@ img:hover {border:1px solid #ccc;border-right-color:#888;border-bottom-color:#88
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body id="puzzleRoot">
-<div id="tabHeaderContainer" style="border:0;padding:10px;"><div id="puzzleTabHeaderSolve" class="tabHeaderOff"></div>
+<div id="tabHeaderContainer" style="border:0;padding-left: 10px; margin-top: -14px;">
+	<h1 style="text-align: center;">Sound of Liberation: Bring peace by putting pieces together</h1>
+	<div id="puzzleTabHeaderSolve" class="tabHeaderOff"></div>
 </div>
 <!-- <body style="text-align:center"> -->
 
-				<div class="popup" style="margin-top: -20px; padding:0em;">
+				<div class="popup" style="margin-top: -16px; padding:0em;">
 				  <span class="popuptext" id="myPopup">S. Korea and the N. Korea were simultaneously admitted to the United Nations (UN) in 1991.</span>
 				</div>
 
 <div id="tabContentContainer" style="border:0px solid #888; padding:4px">
 
 <div id="puzzleTabSolve" style="font-family: Helvetica, sans-serif; font-size: 12px;">
-<div style="margin-top: -5px; padding:0.9em;">
-<div id="puzzleParent" style="background-color: rgb(136, 136, 136); color: black; width: 1400px; height: 740px;"><canvas id="puzzleCanvas" width="1400" height="740" style="cursor: auto;">
+<div style="">
+<div id="puzzleParent" style="background-color: rgb(136, 136, 136); margin-top: 20px; padding:0.5em; color: black; align-content: center;">
+	<canvas id="puzzleCanvas" style="cursor: auto; padding:1.0em;">
 <p style="margin-bottom:0">This Jigsaw Puzzle game requires that your browser supports the <a target="_blank" href="http://en.wikipedia.org/wiki/Canvas_(HTML_element)">HTML5 &lt;canvas&gt; element</a>. See <a target="_blank" href="http://en.wikipedia.org/wiki/Canvas_(HTML_element)">Wikipedia</a> for information on which browsers support the <u>HTML5 &lt;canvas&gt;</u> technology. Google code offers <a href="http://code.google.com/p/explorercanvas/">ExplorerCanvas</a> to bring the functionality of the &lt;canvas&gt; tag to Internet Explorer, unfortunately, complex clipping regions are not supported, a requirement for this software.</p>
 <p><img src="./Jigsaw Puzzle by Raymond Hill_ An HTML5 _canvas_-based jigsaw puzzle_files/jigsawpuzzle-rhill-gadget-snapshot.png" alt="Snapshot"> <br><small>Thumbnail preview</small></p>
 </canvas></div>
+<div class='player'>
+  <div class='button entypo-fast-backward' id='prev'><img src="https://i.imgur.com/pZ1ku7F.png"></div>
+  <div class='button entypo-play' id='play'><img src="https://i.imgur.com/5ONEssf.png"></div>
+  <div class='button entypo-fast-forward' id='next'><img src="https://i.imgur.com/4mwhYBs.png"></div>
+  <input class='range' id='nav' type='range' value='0'>
+  <div class='button fontawesome-volume-up' id='volume'>
+    <div class='container'>
+      <input class='range' max='100' min='0' type='range' value='100'>
+    </div>
+  </div>
+</div>
 <audio id="puzzleSnap1" autobuffer=""><source src="http://www.raymondhill.net/puzzle-rhill/12842__schluppipuppie__klick_01.ogg"><source src="http://www.raymondhill.net/puzzle-rhill/12842__schluppipuppie__klick_01.wav"></audio>
 <audio id="puzzleSnap2" autobuffer=""><source src="http://www.raymondhill.net/puzzle-rhill/12843__schluppipuppie__klick_02.ogg"><source src="http://www.raymondhill.net/puzzle-rhill/12843__schluppipuppie__klick_02.wav"></audio>
 <audio id="puzzleClap1"><source src="http://www.raymondhill.net/puzzle-rhill/35102_m1rk0_applause_5sec.ogg"><source src="http://www.raymondhill.net/puzzle-rhill/35102_m1rk0_applause_5sec.mp3"></audio>
 <audio id="puzzleClap2"><source src="http://www.raymondhill.net/puzzle-rhill/35104_m1rk0_applause_8sec.ogg"><source src="http://www.raymondhill.net/puzzle-rhill/35104_m1rk0_applause_8sec.mp3"></audio>
 <audio id="puzzleClap3"><source src="http://www.raymondhill.net/puzzle-rhill/60789_J.Zazvurek_Applause_9s.ogg"><source src="http://www.raymondhill.net/puzzle-rhill/60789_J.Zazvurek_Applause_9s.mp3"></audio>
-<div style="margin-top:1.9em;">
+<div style="margin-top:1.9em;padding-left:10px;">
 <input id="puzzleShowEdges" style="background-color: #eee; font-size: 20px; color: #000; width:11em;padding:7px;border:solid 1px #333;" type="button" value="Show edge pieces only" onclick="javascript:this.toggleEdges();">&nbsp;&nbsp;
 <input id="puzzleShowPreview" style="background-color: #eee; font-size: 20px; color: #000; width:11em;padding:7px;border:solid 1px #333;" type="button" value="Show preview" onclick="javascript:this.togglePreview();" >
 </div>
+
+
 <div class="grey" style="background-color: #eee; width:100%;">
 <div style="margin-top:1em;font-size:20px; padding: 0px 0px 0px 25px; color:black">
-How to play:
-<ul style="margin-top:0;">
-Click on a piece to move it, click again to release it<br>
-<b>Left</b> and <b>right</b> arrows (or alternatively <b>'A'</b> or <b>'D'</b>, or <b>mousewheel</b>) to rotate a piece<br>
-<b>'E'</b> to toggle on/off visibility of non-edge pieces<br>
-<b>'Q'</b> to show/hide preview tile<br>
-<b>Space bar</b> to show/hide non-composite pieces (pieces made up of two or more atomic pieces)</ul>
-	This website is about Korean Cultural & Speaking Tour in Asia-Pacific Europe <b>"Sound of Liberation"</b>.<br>
-	The concert was aimed at informing the world of a message that prayed for the unification of Korea and refused to be separately registered with the UN.<br>
-	It was a European concert tour to Luxembourg, Belgium, Germany, the Netherlands, Ireland, France and United Kingdom.<br>
-	More on here:
-	<a href="https://catalog-of-archival-resilience.herokuapp.com/transcoding/silverjin">https://catalog-of-archival-resilience.herokuapp.com/transcoding/silverjin</a>
-	<br>
-	<br>
-
-
+	How to play:
+	<ul style="margin-top:0;">
+	Click on a piece to move it, click again to release it<br>
+	<b>Left</b> and <b>right</b> arrows (or alternatively <b>'A'</b> or <b>'D'</b>, or <b>mousewheel</b>) to rotate a piece<br>
+	<b>'E'</b> to toggle on/off visibility of non-edge pieces<br>
+	<b>'Q'</b> to show/hide preview tile<br>
+	<b>Space bar</b> to show/hide non-composite pieces (pieces made up of two or more atomic pieces)</ul>
+		This website is about Korean Cultural & Speaking Tour in Asia-Pacific Europe <b>"Sound of Liberation"</b>.<br>
+		The concert was aimed at informing the world of a message that prayed for the unification of Korea and refused to be separately registered with the UN.<br>
+		It was a European concert tour to Luxembourg, Belgium, Germany, the Netherlands, Ireland, France and United Kingdom.<br><br>
+		More on here:
+		<a href="https://catalog-of-archival-resilience.herokuapp.com/transcoding/silverjin">https://catalog-of-archival-resilience.herokuapp.com/transcoding/silverjin</a>
+		<br>
+		<br>
 </div>
 </div>
 </div>
@@ -300,18 +314,6 @@ Also, for jigsaw puzzle fans out there, I am just happy to enable you to create 
 
 </div>
 
-<div class='player'>
-  <div class='button entypo-fast-backward' id='prev'><img src="https://i.imgur.com/pZ1ku7F.png"></div>
-  <div class='button entypo-play' id='play'><img src="https://i.imgur.com/5ONEssf.png"></div>
-  <div class='button entypo-fast-forward' id='next'><img src="https://i.imgur.com/4mwhYBs.png"></div>
-  <input class='range' id='nav' type='range' value='0'>
-  <div class='button fontawesome-volume-up' id='volume'>
-    <div class='container'>
-      <input class='range' max='100' min='0' type='range' value='100'>
-    </div>
-  </div>
-</div>
 
 <script  src="audioscript.js"></script>
-
 </body></html>
