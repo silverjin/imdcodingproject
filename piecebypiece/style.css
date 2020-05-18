@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 body {
   background-image: url("https://i.imgur.com/blQOfAj.png");
   background-repeat: repeat;
-  font-family: helvetica;
-  margin: 0px;
+  font-family: Bebas Neue;
+  font-size: 18pt;
+  margin: 4px;
   padding:0;
   border:0;
   overflow-x: hidden;
@@ -35,8 +38,8 @@ a:active {
 .grey {
   position: absolute;
   background-color: #eee;
-  margin-top: 17px;
-  margin-left: -16px;
+  margin-top: 50px;
+  margin-left: -8px;
   overflow:scroll;
 overflow-y: hidden;
 overflow-x: hidden;
@@ -103,6 +106,7 @@ white-space:nowrap;
   to {opacity:1 ;}
 }
 
+
 .player {
   color: white;
   font-family: helvetica;
@@ -113,8 +117,8 @@ white-space:nowrap;
   background: #eee;
   padding: 5px;
   opacity: .5;
-  margin-top:298px;
-  margin-left: -14px;
+  margin-top: 80px;
+  margin-left: -10px;
     overflow: hidden;
   overflow-y: hidden;
   overflow-x: hidden;
