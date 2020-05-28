@@ -155,5 +155,4 @@ While playing, you can listen to the actual setlist(Part 1) of the concert.
 
 <b>Pop-up!</b><br>
  <img src="https://i.imgur.com/ZKJK2Kk.gif" alt="popup"><br>
-<br>
 As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.
