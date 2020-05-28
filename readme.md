@@ -35,6 +35,7 @@ This artifact is a poster for Korean Cultural & Speaking Tour in Asia-Pacific Eu
 <li>On 8 August 1991, the UN Security Council passed United Nations Security Council Resolution 702, recommending both states to the UN General Assembly for membership.</li>
 <li>On 17 September 1991, the General Assembly admitted both countries under Resolution 46/1.</li>
 <li>The concert was held at De Kargadoor (Oudegracht 36 3511 AP Utrecht) in August 1991.</li>
+<p></p>
 <img src="https://i.imgur.com/2RYNq3O.png">
 
 <h3>Concert setlist</h3>
@@ -144,5 +145,5 @@ Adobe Photoshop, Adobe Illustrator, Atom.
 
 
 <b>Pop-up!</b><br>
- <img src="https://i.imgur.com/ZKJK2Kk.gif" alt="popup">
-As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.
+ <img src="https://i.imgur.com/ZKJK2Kk.gif" alt="popup"><br>
+<p>As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.</p>
