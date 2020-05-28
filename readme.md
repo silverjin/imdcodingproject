@@ -146,6 +146,7 @@ Adobe Photoshop, Adobe Illustrator, Atom.
 #### Details
 <b>Playlist</b><br>
  <img src="https://i.imgur.com/DHD1WgU.png">
+ <br>
 While playing, you can listen to the actual setlist(Part 1) of the concert.
 <li>‘Gwangju stream’</li>
 <li>‘March for Our Beloved’</li>
