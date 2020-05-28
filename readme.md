@@ -116,7 +116,6 @@ Adobe Photoshop, Adobe Illustrator, Atom.
 
 ### Results
 
-Still in process
  <img src="https://i.imgur.com/6pVdBNd.png" alt="enter image description here">
  <img src="https://i.imgur.com/W8z3oLC.gif" alt="enter image description here">
- http://eunjinahn.me/imdcodingproject/codingtest/index.htm
+http://eunjinahn.me/imdcodingproject/soundofliberation/index.html
