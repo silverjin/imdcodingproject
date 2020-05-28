@@ -118,5 +118,8 @@ Tryouts:
 Adobe Photoshop, Adobe Illustrator, Atom.
 
 ### Results
- <img src="https://i.imgur.com/KiZjyIf.png" alt="enter image description here">
-http://eunjinahn.me/imdcodingproject/soundofliberation/index.html
+ <img src="https://i.imgur.com/KiZjyIf.png" alt="default">
+#http://eunjinahn.me/imdcodingproject/soundofliberation/index.html#
+
+ <img src="https://i.imgur.com/ZKJK2Kk.gif" alt="popup">
+As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.
