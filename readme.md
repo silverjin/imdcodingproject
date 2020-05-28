@@ -125,6 +125,10 @@ With this transcoding tool, we aimed to build a memorial in respect of visual as
 ### Methods
 Using the visual materials from our previous research, we generated the design of the puzzle. For the technical part, we used the code provided by Raymond Hill as an opensource. (Link: [http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php](http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php)) We edited html, css and javascript from the original code.
 
+Puzzle Image:
+<img src="https://i.imgur.com/Z4Vap2I.png">
+Above: First sketch / Below: Final Choice
+
 Tryouts:
  <img src="https://i.imgur.com/6pVdBNd.png" alt="enter image description here">
  
@@ -135,8 +139,9 @@ Tryouts:
 Adobe Photoshop, Adobe Illustrator, Atom.
 
 ### Results
+#### Link: http://eunjinahn.me/imdcodingproject/soundofliberation/index.html ####
  <img src="https://i.imgur.com/KiZjyIf.png" alt="default">
-#### http://eunjinahn.me/imdcodingproject/soundofliberation/index.html ####
+
 
 <b>Pop-up!</b><br>
  <img src="https://i.imgur.com/ZKJK2Kk.gif" alt="popup">
