@@ -130,6 +130,7 @@ Using the visual materials from our previous research, we generated the design o
 <b>Tryouts:</b><br>
 Puzzle Image:
 <img src="https://i.imgur.com/Z4Vap2I.png"><br>
+<p></p>
 Above: First sketch / Below: Final Choice<br>
  <img src="https://i.imgur.com/W8z3oLC.gif" width="600" alt="enter image description here">
  <br>
