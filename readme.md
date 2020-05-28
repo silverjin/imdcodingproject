@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/Li7HxYS.gif">
 <h1>Sound of Liberation</h1>
 
-Table of Contents
+### Table of Contents
 1. [Artifact](#artefact)
     1. [Metadata](#metadata)
 2. [Research](#research)
