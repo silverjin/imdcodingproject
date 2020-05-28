@@ -26,7 +26,7 @@ This artifact is a poster for Korean Cultural & Speaking Tour in Asia-Pacific Eu
 | **Medium** | Poster
 | **Materials** | Paper
 | **Date** | 1975-1999
-|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| The title is written in both English and Korean, and the Korean title is written in Korean calligraphy. A picture of a man hitting a Kkwaenggwari is drawn in the middle, and a picture of people dancing together is printed in a background. At the bottom of the drawing, it explains what kind of performance this concert is and what intention it planned with smaller texts. There is an empty space below, and since every time the country and city of the performance changed, it seems that they tried to write down a new address every time by hand. This poster shows the date, time, title, address and admission of the venue in a red marker on the blank space.<br><br>Size: W 279 mm, H 432 mm<br>Paper: Cream colored corrugated paper<br>Used typeface: Optima<br>Background Image: Halftone effect<br>Address: Kargadoor (Oudegracht 36 3511 AP Utrecht)<br>Currency: Dutch guilder (Symbol ƒ or fl.) [https://en.wikipedia.org/wiki/Dutch_guilder]<br>
+|![enter image description here](https://disseminate.objectrepository.org/file/level3/10622/30051001836755)| The title is written in both English and Korean, and the Korean title is written in Korean calligraphy. A picture of a man hitting a Kkwaenggwari is drawn in the middle, and a picture of people dancing together is printed in a background. At the bottom of the drawing, it explains what kind of performance this concert is and what intention it planned with smaller texts. There is an empty space below, and since every time the country and city of the performance changed, it seems that they tried to write down a new address every time by hand. This poster shows the date, time, title, address and admission of the venue in a red marker on the blank space.<br><br>Size: W 279 mm, H 432 mm<br>Paper: Cream colored corrugated paper<br>Used typeface: Optima<br>Background Image: Halftone effect<br>Address:De Kargadoor (Oudegracht 36 3511 AP Utrecht)<br>Currency: Dutch guilder (Symbol ƒ or fl.) [https://en.wikipedia.org/wiki/Dutch_guilder]<br>
 
 <br><img src="https://i.imgur.com/D1rFTKt.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="300px">
 
@@ -34,7 +34,9 @@ This artifact is a poster for Korean Cultural & Speaking Tour in Asia-Pacific Eu
 <li>S. Korea and the N. Korea were simultaneously admitted to the United Nations (UN) in 1991.</li>
 <li>On 8 August 1991, the UN Security Council passed United Nations Security Council Resolution 702, recommending both states to the UN General Assembly for membership.</li>
 <li>On 17 September 1991, the General Assembly admitted both countries under Resolution 46/1.</li>
-<li>The concert was held in August 1991.</li>
+<li>The concert was held at De Kargadoor (Oudegracht 36 3511 AP Utrecht) in August 1991.</li>
+<img src="https://i.imgur.com/2RYNq3O.png">
+
 <h3>Concert setlist</h3>
 <h3 id="part-1">Part 1</h3>
 <p>Music concert with famous Korean activist songs like ‘Gwangju stream’ and ‘March for Our Beloved’<br>
@@ -126,5 +128,5 @@ Adobe Photoshop, Adobe Illustrator, Atom.
 #### http://eunjinahn.me/imdcodingproject/soundofliberation/index.html ####
 
 <b>Pop-up!</b><br>
- <img src="https://i.imgur.com/ZKJK2Kk.gif" width="500px" alt="popup">
+ <img src="https://i.imgur.com/ZKJK2Kk.gif" alt="popup">
 As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.
