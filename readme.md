@@ -140,10 +140,12 @@ Tryouts:
 Adobe Photoshop, Adobe Illustrator, Atom.
 
 ### Results
-#### http://eunjinahn.me/imdcodingproject/soundofliberation/index.html ####
+#### http://eunjinahn.me/imdcodingproject/soundofliberation/index.html
  <img src="https://i.imgur.com/KiZjyIf.png" alt="default">
 
+#### Details
 <b>Playlist</b><br>
+ <img src="https://i.imgur.com/DHD1WgU.png">
 While playing, you can listen to the actual setlist(Part 1) of the concert.
 <li>‘Gwangju stream’</li>
 <li>‘March for Our Beloved’</li>
