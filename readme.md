@@ -115,7 +115,9 @@ Using the visual materials from our previous research, we generated the design o
 Adobe Photoshop, Adobe Illustrator, Atom.
 
 ### Results
-
+<b>Process</b>
  <img src="https://i.imgur.com/6pVdBNd.png" alt="enter image description here">
+ <img src="https://i.imgur.com/W8z3oLC.gif" alt="enter image description here">
+ 
  <img src="https://i.imgur.com/W8z3oLC.gif" alt="enter image description here">
 http://eunjinahn.me/imdcodingproject/soundofliberation/index.html
