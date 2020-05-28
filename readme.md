@@ -126,11 +126,11 @@ With this transcoding tool, we aimed to build a memorial in respect of visual as
 ### Methods
 Using the visual materials from our previous research, we generated the design of the puzzle. For the technical part, we used the code provided by Raymond Hill as an opensource. (Link: [http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php](http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php)) We edited html, css and javascript from the original code.
 
-Puzzle Image:
+<b>Puzzle Image:</b>
 <img src="https://i.imgur.com/Z4Vap2I.png">
 Above: First sketch / Below: Final Choice
 
-Tryouts:
+<b>Tryouts:</b>
  <img src="https://i.imgur.com/6pVdBNd.png" alt="enter image description here">
  
  <img src="https://i.imgur.com/W8z3oLC.gif" width="600" alt="enter image description here">
@@ -153,6 +153,6 @@ While playing, you can listen to the actual setlist(Part 1) of the concert.
 <li>'One Country'</li><br>
 
 
-<b>Pop-up!</b><br>
+<b>Pop-up</b><br>
  <img src="https://i.imgur.com/ZKJK2Kk.gif" alt="popup"><br>
 As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.
