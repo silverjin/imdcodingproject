@@ -122,8 +122,8 @@ Tryouts:
 Adobe Photoshop, Adobe Illustrator, Atom.
 
 ### Results
- [<img src="https://i.imgur.com/KiZjyIf.png" width="50%" alt="default">]
+ <img src="https://i.imgur.com/KiZjyIf.png" width="50%" alt="default">
 #### http://eunjinahn.me/imdcodingproject/soundofliberation/index.html ####
 
- [<img src="https://i.imgur.com/ZKJK2Kk.gif" width="50%" alt="popup">]
+ <img src="https://i.imgur.com/ZKJK2Kk.gif" width="50%" alt="popup">
 As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.
