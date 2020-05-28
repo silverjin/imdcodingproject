@@ -114,7 +114,8 @@ Pan-National Conference for Peace and Reunification of Korea in West Berlin</p>
 June 1977, Algiers (Algeria), consequent upon the World Conference for the Independent and Peaceful Reunification of Korea, 21-22 Feb 1977, Brussels (Belgium). Also referred to as: International Liaison Committee for Reunification and Peace of Korea – Comité international de liaison pour la réunification et la paix en Corée – Comité internacional de Enlace por la Réunificación y la Paz en Corea; International Network for Reconciliation and Reunification of Korea. No activities reported since 2009.</p>
 <p><b>Aims</b><br>
 Contribute to the formation of a large movement of solidarity with the Korean people in their struggle to accomplish the independent and peaceful reunification of Korea.</p>
-<p><b>Artifact:</b><br>
+<p><b>Artifact</b><br>
+    <img src="https://i.imgur.com/51O64yA.jpg"><br>
 <a href="https://search.iisg.amsterdam/Record/1357662">https://search.iisg.amsterdam/Record/1357662</a></p>
 
 ## Transcoding
