@@ -14,9 +14,9 @@
 7. [Bibliography](#bibliography)
 
 <h2>Artifact</h2>
-This artifact is a poster for Korean Cultural & Speaking Tour in Asia-Pacific Europe ‘Sound of Liberation’. The concert was aimed at informing the world of a message that prayed for the unification of Korea and refused to be separately registered with the UN. It was a European concert tour to Luxembourg, Belgium, Germany, the Netherlands, Ireland, France and United Kingdom.
+This artifact is a poster for Korean Cultural & Speaking Tour in Asia-Pacific Europe ‘Sound of Liberation’. The concert was aimed at informing the world of a message that prayed for the unification of Korea and refused to be separately registered with the UN. It was a European concert tour to Luxembourg, Belgium, Germany, the Netherlands, Ireland, France and United Kingdom.<br>
 ### Specification
-<br>Size: W 279 mm, H 432 mm<br>Paper: Cream colored corrugated paper<br>Used typeface: Optima<br>Background Image: Halftone effect<br>Address:De Kargadoor (Oudegracht 36 3511 AP Utrecht)<br>Currency: Dutch guilder (Symbol ƒ or fl.) [https://en.wikipedia.org/wiki/Dutch_guilder]<br>
+Size: W 279 mm, H 432 mm<br>Paper: Cream colored corrugated paper<br>Used typeface: Optima<br>Background Image: Halftone effect<br>Address:De Kargadoor (Oudegracht 36 3511 AP Utrecht)<br>Currency: Dutch guilder (Symbol ƒ or fl.) [https://en.wikipedia.org/wiki/Dutch_guilder]<br>
 <br><img src="https://i.imgur.com/D1rFTKt.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/CnhJalE.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/qLLwkW9.jpg" alt="enter image description here" width="300px"> <img src="https://i.imgur.com/1ZPDUtN.jpg" alt="enter image description here" width="300px">
 
 <h2>Metadata</h2>
