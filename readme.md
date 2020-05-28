@@ -118,5 +118,5 @@ Tryouts:
 Adobe Photoshop, Adobe Illustrator, Atom.
 
 ### Results
- <img src="https://i.imgur.com/OAW64VS.png" alt="enter image description here">
+ <img src="https://i.imgur.com/KiZjyIf.png" alt="enter image description here">
 http://eunjinahn.me/imdcodingproject/soundofliberation/index.html
