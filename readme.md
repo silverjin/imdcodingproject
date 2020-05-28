@@ -84,7 +84,7 @@ Arch of Reunification, North Korea<br>
 <p>Upon Yoon’s arrival in the United States, he focused on building an overseas solidarity movement to support the democracy movement in South Korea. Among his accomplishments are the founding of the Korean Resource Center in 1983, Young Koreans United (YKU=한청련) in 1984 and the Korean Alliance for Peace and Justice of USA in 1987. YKU spawned the formation of grassroots community-based organizations throughout the country including the Korean American Resource &amp; Cultural Center in Chicago, YKASEC – Empowering the Korean American Community in New York City and the National Korean American Service &amp; Education Consortium (NAKASEC).</p>
 
 <p>“Unless there are not big variables, our homeland will be separately admitted to the UN in this year. This issue has many conditions that we cannot be fought against with all our’s might. <strong>However, we are responsible for informing many other countries that are solidarity about the issue of separation.</strong> In the meantime, we have always been in the position of one country but if we do not strongly protest the situation in which two countries are recognized separately, it becomes an international laughing matter. Let’s do the best propaganda activities we can. <strong>This is our own way to keep our dignity of National Democratic Movement.</strong>"</p>
-<p>(<a href="http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc"></a><a href="http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc">http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc</a>)</p>
+<p>(Reference:<a href="http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc"></a><a href="http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc">http://habsoo.org/habsoo/missing-habsoo?board_name=missing&amp;mode=view&amp;board_pid=17&amp;order_by=fn_pid&amp;order_type=desc</a>)</p>
 <h2>Overseas organizations that have campaigned for the reunification of Korea</h2>
 <p></p><h3>YKU (Young Koreans United)</h3><p></p>
 <p><a href="https://www.youtube.com/watch?v=ZA8eNS4I8uI&amp;feature=emb_title">Video of YKU</a></p>
@@ -140,10 +140,17 @@ Tryouts:
 Adobe Photoshop, Adobe Illustrator, Atom.
 
 ### Results
-#### Link: http://eunjinahn.me/imdcodingproject/soundofliberation/index.html ####
+#### http://eunjinahn.me/imdcodingproject/soundofliberation/index.html ####
  <img src="https://i.imgur.com/KiZjyIf.png" alt="default">
+
+<b>Playlist</b><br>
+While playing, you can listen to the actual setlist(Part 1) of the concert.
+<li>‘Gwangju stream’</li>
+<li>‘March for Our Beloved’</li>
+<li>'One Country'</li><br>
 
 
 <b>Pop-up!</b><br>
  <img src="https://i.imgur.com/ZKJK2Kk.gif" alt="popup"><br>
-<p>As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.</p>
+<br>
+As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.
