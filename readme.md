@@ -122,7 +122,7 @@ Tryouts:
 Adobe Photoshop, Adobe Illustrator, Atom.
 
 ### Results
- <img src="https://i.imgur.com/KiZjyIf.png" alt="default">
+ [img src="https://i.imgur.com/KiZjyIf.png" width="50%" alt="default"]
 #### http://eunjinahn.me/imdcodingproject/soundofliberation/index.html ####
 
  <img src="https://i.imgur.com/ZKJK2Kk.gif" alt="popup">
