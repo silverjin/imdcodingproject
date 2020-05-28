@@ -132,7 +132,6 @@ Using the visual materials from our previous research, we generated the design o
 Above: First sketch / Below: Final Choice
 
 <b>Tryouts:</b>
- <img src="https://i.imgur.com/6pVdBNd.png" alt="enter image description here">
  
  <img src="https://i.imgur.com/W8z3oLC.gif" width="600" alt="enter image description here">
 
@@ -155,5 +154,5 @@ While playing, you can listen to the actual setlist(Part 1) of the concert.
 
 
 <b>Pop-up</b><br>
- <img src="https://i.imgur.com/ZKJK2Kk.gif" alt="popup"><br>
+ <img src="https://i.imgur.com/ZKJK2Kk.gif" width="600" alt="popup"><br>
 As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.
