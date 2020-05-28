@@ -130,10 +130,10 @@ Using the visual materials from our previous research, we generated the design o
 <b>Tryouts:</b><br>
 Puzzle Image:
 <img src="https://i.imgur.com/Z4Vap2I.png"><br>
-<p></p>
 Above: First sketch / Below: Final Choice<br>
+<p></p>
  <img src="https://i.imgur.com/W8z3oLC.gif" width="600" alt="enter image description here">
- <br>
+
  Before we design the website, we tried out the image we made to see how it looks on the puzzle when it is devided into pieces.
  <img src="https://i.imgur.com/blQOfAj.png"><br>
  <p> As we were designing the cover image of the catalog, we took the idea for the background image of the puzzle canvas. The color is taken from the original poster, and for the convenience of the player, we thought it might be better to have grids.</p>
