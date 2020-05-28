@@ -125,7 +125,6 @@ Adobe Photoshop, Adobe Illustrator, Atom.
  <img src="https://i.imgur.com/KiZjyIf.png" alt="default">
 #### http://eunjinahn.me/imdcodingproject/soundofliberation/index.html ####
 
-Pop-up!
-
+<b>Pop-up!</b><br>
  <img src="https://i.imgur.com/ZKJK2Kk.gif" width="500px" alt="popup">
 As soon as you match two pieces of puzzle, you will get a pop-up text that explains more about the history behind our project.
