@@ -121,7 +121,7 @@ Contribute to the formation of a large movement of solidarity with the Korean pe
 ## Transcoding
 Even though we were born and raised in South Korea, we have never learned about the effort of overseas Koreans for Korean Reunification at school. Thus, we were surprised to find out that there were actually so many organizations that worked for the peaceful reunification of the Korean peninsula. Therefore, we felt the necessity of remembrance of their work and effort, and decided to set our concept for transcoding as a memorial tool. In short, it can be described in one word: **Unison**.
 
-## Peace by Piece
+## Sound of Liberation: Bring peace by putting pieces together
 
 ### Description
 With this transcoding tool, we aimed to build a memorial in respect of visual aspect. It is a platform where people can join to complete a puzzle, piece by piece in realtime. Our research process of discovering what kind of event this poster is and what kind of event it is also resembles a puzzle. As you match the puzzle, you can see the background and hidden stories of this poster and event.
